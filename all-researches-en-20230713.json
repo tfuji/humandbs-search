@@ -1,0 +1,4264 @@
+{
+  "hum0409.v1": {
+    "Research ID": "hum0409.v1 JGAS000619",
+    "Study Title": "Analysis of genes that confer exceptional response in anticancer therapy",
+    "Release Date": "v1:2023/06/27",
+    "Type of Study": "NGS (Exome, RNA-seq, Target Capture)",
+    "Platform": "Illumina (NextSeq 550, NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "Intimal sarcoma with MDM2 amplification: 11 cases (Japanese)",
+    "Data Provider": "Takafumi Koyama",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0409.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000619"
+    ]
+  },
+  "hum0401.v1": {
+    "Research ID": "hum0401.v1 JGAS000618",
+    "Study Title": "Development of cell lines and mouse models of bone and soft tissue sarcoma to establish novel treatment",
+    "Release Date": "v1:2023/06/29",
+    "Type of Study": "NGS (Exome, RNA-seq)",
+    "Platform": "Illumina (NovaSeq 6000) MGI (DNBSEQ-G400)",
+    "Participants/Materials (Ethnicity)": "giant cell tumor of bone: 1 case (Japanese)",
+    "Data Provider": "Toru Wakamatsu",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0401.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000618"
+    ]
+  },
+  "hum0390.v1": {
+    "Research ID": "hum0390.v1 JGAS000621",
+    "Study Title": "Elucidation of genetic factors associated with chronic endometritis (CE) through genomic and epigenomic analyses, and investigation on novel diagnostic and therapeutic methods for CE",
+    "Release Date": "v1:2023/06/30",
+    "Type of Study": "NGS (RNA-seq)",
+    "Platform": "Illumina (HiSeq X Ten)",
+    "Participants/Materials (Ethnicity)": "chronic endometritis: 24 cases 33 controls (Japanese)",
+    "Data Provider": "Keiji Kuroda",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0390.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000621"
+    ]
+  },
+  "hum0389.v1": {
+    "Research ID": "hum0389.v1 JGAS000605",
+    "Study Title": "Genetic analysis of fetal developmental abnormalities",
+    "Release Date": "v1:2023/04/04",
+    "Type of Study": "NGS (Capture Methyl-seq)",
+    "Platform": "Illumina (HiSeq X)",
+    "Participants/Materials (Ethnicity)": "4 healthy women (Japanese)",
+    "Data Provider": "Kazuhiko Nakabayashi",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0389.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000605"
+    ]
+  },
+  "hum0386.v1": {
+    "Research ID": "hum0386.v1 DRA015813",
+    "Study Title": "Localized assembly for long reads enables genome-wide analysis of repetitive regions at single-base resolution in human genomes",
+    "Release Date": "v1:2023/04/11",
+    "Type of Study": "NGS (WGS)",
+    "Platform": "Nanopore (MinION)",
+    "Participants/Materials (Ethnicity)": "HapMap: 1 sample (Cell-line)",
+    "Data Provider": "Akihiro Fujimoto",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0386.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "DRA015813"
+    ]
+  },
+  "hum0383.v1": {
+    "Research ID": "hum0383.v1 JGAS000602",
+    "Study Title": "Analysis of the effect of abatacept for the transcriptome of multiple lymphoid subsets",
+    "Release Date": "v1:2023/03/28",
+    "Type of Study": "NGS (RNA-seq)",
+    "Platform": "Illumina (NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "Rheumatoid arthritis: 5 cases (Japanese)",
+    "Data Provider": "Keishi Fujio",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0383.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000602"
+    ]
+  },
+  "hum0382.v1": {
+    "Research ID": "hum0382.v1 JGAS000587",
+    "Study Title": "Analysis of genetic and epigenetic abnormalities in hematopoietic diseases",
+    "Release Date": "v1:2023/01/19",
+    "Type of Study": "NGS (WGS)",
+    "Platform": "Illumina (NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "AML with FUS-ERG: 1 case (Japanese)",
+    "Data Provider": "Masahiro Kawahara",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0382.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000587"
+    ]
+  },
+  "hum0381.v1": {
+    "Research ID": "hum0381.v1 JGAS000588",
+    "Study Title": "A biomarker study of a multicenter Phase II Trial of Nivolumab for Unresectable or Recurrent Thymic Carcinoma (NCCH1505)",
+    "Release Date": "v1:2023/01/05",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Illumina (NextSeq 500)",
+    "Participants/Materials (Ethnicity)": "thymic carcinoma: 2 cases (Japanese)",
+    "Data Provider": "Hidehito Horinouchi",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0381.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000588"
+    ]
+  },
+  "hum0377.v1": {
+    "Research ID": "hum0377.v1 JGAS000579",
+    "Study Title": "Research on the genetic basis of arrhythmia syndrome",
+    "Release Date": "v1:2022/12/13",
+    "Type of Study": "NGS (Amplicon-seq)",
+    "Platform": "Thermo Fisher Scientific (Ion Proton)",
+    "Participants/Materials (Ethnicity)": "LQTS: 556 cases (Japanese)",
+    "Data Provider": "Toshihiro Tanaka",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0377.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000579"
+    ]
+  },
+  "hum0376.v2": {
+    "Research ID": "hum0376.v2 JGAS000585",
+    "Study Title": "Establishment of xenografts and cultured cell lines from clinical samples.",
+    "Release Date": "v1:2022/12/27 v2:2023/03/28",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Illumina (NextSeq 500)",
+    "Participants/Materials (Ethnicity)": "endometrial cancer: 2 + 4 cases (Japanese)",
+    "Data Provider": "Toshio Imai",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0376.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000585"
+    ]
+  },
+  "hum0372.v1": {
+    "Research ID": "hum0372.v1 JGAS000572 MTBKS213 MTBKS214",
+    "Study Title": "Elucidation of disease state by multi-layered omics analysis  ",
+    "Release Date": "v1:2022/11/22",
+    "Type of Study": "Metabolome",
+    "Platform": "Agilent Technologies (Agilent CE system, Agilent LC System)",
+    "Participants/Materials (Ethnicity)": "type2 diabetes: 300 cases (Japanese)",
+    "Data Provider": "Toshimasa Yamauchi",
+    "Type of Data": "Unrestricted-access Controlled-access (Type I)",
+    "identifier": "hum0372.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000572",
+      "MTBKS213",
+      "MTBKS214"
+    ]
+  },
+  "hum0371.v1": {
+    "Research ID": "hum0371.v1 JGAS000574",
+    "Study Title": "Research on genes and proteins associated with liver disease.",
+    "Release Date": "v1:2022/12/22",
+    "Type of Study": "Metagenome",
+    "Platform": "Illumina (MiSeq)",
+    "Participants/Materials (Ethnicity)": "NASH: 20 cases (Japanese)",
+    "Data Provider": "Ryosuke Tateishi",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0371.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000574"
+    ]
+  },
+  "hum0369.v1": {
+    "Research ID": "hum0369.v1 JGAS000562",
+    "Study Title": "A study of resistance to novel coronavirus infection in health care workers",
+    "Release Date": "v1:2022/09/28",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Illumina (NextSeq 500)",
+    "Participants/Materials (Ethnicity)": "139 healthy persons (Japanese)",
+    "Data Provider": "Atsushi Kawaguchi",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0369.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000562"
+    ]
+  },
+  "hum0368.v1": {
+    "Research ID": "hum0368.v1 JGAS000559",
+    "Study Title": "Identification and functional analysis of novel causative genes of ICF syndrome by whole genome sequencing",
+    "Release Date": "v1:2022/11/29",
+    "Type of Study": "NGS (PBAT-seq)",
+    "Platform": "Illumina (NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "ICF syndrome: 1 case (Japanese)",
+    "Data Provider": "Motoko Unoki",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0368.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000559"
+    ]
+  },
+  "hum0367.v1": {
+    "Research ID": "hum0367.v1 JGAS000558",
+    "Study Title": "Clinical sequence of hematological malignancy",
+    "Release Date": "v1:2022/09/21",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Illumina (MiSeq)",
+    "Participants/Materials (Ethnicity)": "langerhans cell histiocytosis: 1 case (Japanese)",
+    "Data Provider": "Arinobu Tojo",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0367.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000558"
+    ]
+  },
+  "hum0366.v1": {
+    "Research ID": "hum0366.v1 E-GEAD-511 E-GEAD-512",
+    "Study Title": "Pathogenesis of severe acute respiratory syndrome coronavirus 2 infection (COVID-19)",
+    "Release Date": "v1:2023/03/16",
+    "Type of Study": "NGS (scRNA-seq, RNA-seq, ATAC-seq)",
+    "Platform": "Illumina (NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "COVID-19: 16 cases 10 healthy individuals (Japanese)",
+    "Data Provider": "Yasuhiro Kato",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0366.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "E-GEAD-511",
+      "E-GEAD-512"
+    ]
+  },
+  "hum0365.v1": {
+    "Research ID": "hum0365.v1 JGAS000569",
+    "Study Title": "The role of gut microbiota in metabolic diseases",
+    "Release Date": "v1:2023/06/09",
+    "Type of Study": "NGS (CAGE-seq)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "normoglycemic lean group: 103 individuals obese group: 98 cases prediabetic group: 97 cases (Japanese)",
+    "Data Provider": "Hiroshi Ohno",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0365.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000569"
+    ]
+  },
+  "hum0364.v1": {
+    "Research ID": "hum0364.v1",
+    "Study Title": "Comprehensive analysis of microsatellite polymorphisms in human populations",
+    "Release Date": "v1:2022/08/29",
+    "Type of Study": "NGS (WGS)",
+    "Platform": "Illumina (bam files were publicly available)",
+    "Participants/Materials (Ethnicity)": "Simons Genome Diversity Project (SGDP): 276 samples Human Genome Diversity Project (HGDP): 693 samples Jomon Individual: 1 individual",
+    "Data Provider": "Akihiro Fujimoto",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0364.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+
+    ]
+  },
+  "hum0360.v1": {
+    "Research ID": "hum0360.v1 JGAS000546",
+    "Study Title": "Exploratory research on COVID-19 pathogenesis and aggravation",
+    "Release Date": "v1:2022/12/21",
+    "Type of Study": "NGS (scRNA-seq, scVDJ-seq)",
+    "Platform": "Illumina (NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "COVID-19: 6 cases (Japanese)",
+    "Data Provider": "Ai Tachikawa",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0360.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000546"
+    ]
+  },
+  "hum0359.v1": {
+    "Research ID": "hum0359.v1 JGAS000548",
+    "Study Title": "Genomic and Epigenetic Analysis on T/NK-cell lymphoma",
+    "Release Date": "v1:2022/08/01",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Illumina (NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "Extranodal NK/T-cell lymphoma, nasal type: 67 cases (Japanese)",
+    "Data Provider": "Naoki Oishi",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0359.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000548"
+    ]
+  },
+  "hum0358.v1": {
+    "Research ID": "hum0358.v1 JGAS000582 JGAS000586",
+    "Study Title": "Research of genetic abnormalities related to the development and prognosis of adenocarcinoma and squamous cell carcinoma of the cervix and vaginal and vulvar cancer",
+    "Release Date": "v1:2022/12/20",
+    "Type of Study": "NGS (Exome, RNA-seq)",
+    "Platform": "Illumina (NovaSeq 6000, MiSeq)",
+    "Participants/Materials (Ethnicity)": "cervical cancer: 19 cases (Japanese)",
+    "Data Provider": "Kenbun Sone",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0358.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000582",
+      "JGAS000586"
+    ]
+  },
+  "hum0357.v3": {
+    "Research ID": "hum0357.v3 JGAS000557",
+    "Study Title": "Research for biological features by gene expression analysis and biomarkers at diagnosis/therapeutics in lung cancer",
+    "Release Date": "v1:2022/11/30 v2:2023/01/11 v3:2023/02/15",
+    "Type of Study": "NGS (WGS, Exome, RNA-seq, ATAC-seq) Methylation array",
+    "Platform": "Illumina (HiSeq 2000/X Ten, NovaSeq 6000, Infinium MethylationEPIC)",
+    "Participants/Materials (Ethnicity)": "lung cancer: 43 cases (Japanese)",
+    "Data Provider": "Hiroyuki Yasuda",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0357.v3",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000557"
+    ]
+  },
+  "hum0356.v1": {
+    "Research ID": "hum0356.v1 DRA015288 E-GEAD-579",
+    "Study Title": "Molecular genetic and molecular epidemiological studies to improve the treatment of pancreatic cancer",
+    "Release Date": "v1:2022/12/20",
+    "Type of Study": "NGS (Visium Spatial Gene Expression) Histological image",
+    "Platform": "Illumina (NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "1 colorectal cancer (Japanese)",
+    "Data Provider": "Koshi Mimori",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0356.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "DRA015288",
+      "E-GEAD-579"
+    ]
+  },
+  "hum0355.v1": {
+    "Research ID": "hum0355.v1 JGAS000544",
+    "Study Title": "Genomic analysis of genitourinary tumors by next generation sequencing",
+    "Release Date": "v1:2023/06/19",
+    "Type of Study": "NGS (WGS, Exome, RNA-seq) Microarray",
+    "Platform": "Illumina (NovaSeq 6000, NextSeq 500, HiSeq X Ten) NanoString Technologies (nCounter Digital Analyzer)",
+    "Participants/Materials (Ethnicity)": "hereditary clear cell renal cell carcinoma associated with VHL disease: 10 cases (Japanese)",
+    "Data Provider": "Keisuke Kataoka",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0355.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000544"
+    ]
+  },
+  "hum0354.v2": {
+    "Research ID": "hum0354.v2",
+    "Study Title": "Analyses of circulating tumor cells from patients with advanced urogenital cancer",
+    "Release Date": "v1:2022/06/30 v2:2023/04/18",
+    "Type of Study": "qRT-PCR",
+    "Platform": "BioRad (T100 Thermal cycler)",
+    "Participants/Materials (Ethnicity)": "127 patients with advanced metastatic castration-resistant prostate cancer (Japanese)",
+    "Data Provider": "Masayoshi Nagata",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0354.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+
+    ]
+  },
+  "hum0352.v1": {
+    "Research ID": "hum0352.v1 JGAS000545",
+    "Study Title": "Analytical study of protein function and RNA expression involved in predicting treatment efficacy and adverse event development in lung cancer radiotherapy",
+    "Release Date": "v1:2022/09/20",
+    "Type of Study": "NGS (RNA-seq)",
+    "Platform": "Illumina (NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "primary lung cancer: 5 cases (Japanese)",
+    "Data Provider": "Masanori Someya",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0352.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000545"
+    ]
+  },
+  "hum0351.v1": {
+    "Research ID": "hum0351.v1 JGAS000540",
+    "Study Title": "Analytical study of protein function and RNA expression involved in predicting treatment efficacy and adverse event development in lung cancer radiotherapy",
+    "Release Date": "v1:2022/09/08",
+    "Type of Study": "Metagenome",
+    "Platform": "Illumina (MiSeq)",
+    "Participants/Materials (Ethnicity)": "moyamoya disease: 27 cases non-moyamoya intracranial large artery disease: 7 cases controls: 15 individuals. (Japanese)",
+    "Data Provider": "Yohei Mineharu",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0351.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000540"
+    ]
+  },
+  "hum0348.v1": {
+    "Research ID": "hum0348.v1 JGAS000537",
+    "Study Title": "Analysis of ATL progression by CD30 signaling and its biomarkers",
+    "Release Date": "v1:2023/05/15",
+    "Type of Study": "NGS (Exome) Array CGH",
+    "Platform": "Illumina (NovaSeq 6000) Agilent Technologies (GenetiSure Cancer Research CGH+SNP Microarray 2 x 400K)",
+    "Participants/Materials (Ethnicity)": "ATL: 8 cases (Japanese)",
+    "Data Provider": "Makoto Nakashima",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0348.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000537"
+    ]
+  },
+  "hum0347.v2": {
+    "Research ID": "hum0347.v2",
+    "Study Title": "Comprehensive genetic analysis of acute encephalopathy",
+    "Release Date": "v1:2022/05/23 v2:2022/07/15",
+    "Type of Study": "Sanger-seq SNP-chip",
+    "Platform": "Life Technologies (310 Genetic Analyzer, 3100 Genetic Analyzer, 3130xl Genetic Analyzer) Affymetrix (Japonica Array)",
+    "Participants/Materials (Ethnicity)": "Acute encephalopathy with biphasic seizures and late reduced diffusion (AESD): 283 cases Healthy controls: 799 individuals (Japanese)",
+    "Data Provider": "Masashi Mizuguchi",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0347.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+
+    ]
+  },
+  "hum0345.v1": {
+    "Research ID": "hum0345.v1 JGAS000528 JGAS000551",
+    "Study Title": "Fundamental study for regenerative medicine utilizing cord blood",
+    "Release Date": "v1:2022/08/05",
+    "Type of Study": "NGS (scRNA-seq, ATAC-seq)",
+    "Platform": "Illumina (NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "30 healthy volunteers",
+    "Data Provider": "Kohshi Ohishi (Genome Science)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0345.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000528",
+      "JGAS000551"
+    ]
+  },
+  "hum0344.v2": {
+    "Research ID": "hum0344.v2 JGAS000533 JGAS000611",
+    "Study Title": "Genome sequencing analysis for biliary tract cancer",
+    "Release Date": "v1:2022/08/04 v2:2023/05/16",
+    "Type of Study": "NGS (WGS, RNA-seq, Amplicon-seq)",
+    "Platform": "Illumina (HiSeq 2500) MGI Tech (MGISEQ-2000RS)",
+    "Participants/Materials (Ethnicity)": "kidney cancers: 38 cases chronic kidney disease: 77 cases (Japanese) HEK293 cell line: 1 sample (Cell-line)",
+    "Data Provider": "Hidewaki Nakagawa",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0344.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000533",
+      "JGAS000611"
+    ]
+  },
+  "hum0343.v2": {
+    "Research ID": "hum0343.v2",
+    "Study Title": "Development of COVID19 vaccine and evaluation system based on genetics of COVID-19",
+    "Release Date": "v1:2022/05/26 v2:2022/06/14",
+    "Type of Study": "NGS (RNA-seq) SNP-chip eQTL/sQTL",
+    "Platform": "Illumina (Infinium Asian Screening Array, NovaSeq6000)",
+    "Participants/Materials (Ethnicity)": "COVID-19: 2393 cases Healthy controls: 3289 individuals (Japanese)",
+    "Data Provider": "Koichi Fukunaga",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0343.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+
+    ]
+  },
+  "hum0342.v1": {
+    "Research ID": "hum0342.v1 JGAS000538",
+    "Study Title": "Immunohistochemical and molecular pathological search in gastrointestinal tumors",
+    "Release Date": "v1:2022/06/27",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "Colorectal cancer: 29 cases (Japanese)",
+    "Data Provider": "Shigeki Sekine",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0342.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000538"
+    ]
+  },
+  "hum0340.v1": {
+    "Research ID": "hum0340.v1 JGAS000520",
+    "Study Title": "Comprehensive genomic analysis using next-generation sequencer for pediatric solid tumor cases",
+    "Release Date": "v1:2022/08/04",
+    "Type of Study": "NGS (WGS, Target Capture)",
+    "Platform": "Illumina (Hiseq X Ten)",
+    "Participants/Materials (Ethnicity)": "Colorectal cancer: 24 cases Retinoblastoma: 1 case Glioblastoma: 2 cases",
+    "Data Provider": "Utako Oba",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0340.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000520"
+    ]
+  },
+  "hum0338.v1": {
+    "Research ID": "hum0338.v1 JGAS000575",
+    "Study Title": "Comprehensive cancer genome, epigenome, and immunogenome analysis for gastric cancer unaffected by aging or Helicobacter pylori infection",
+    "Release Date": "v1:2022/11/22",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "H. Pylori uninfected gastric cancer: 27 cases H. Pylori infected gastric cancer: 36 cases (Japanese)",
+    "Data Provider": "Seiichi Mori",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0338.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000575"
+    ]
+  },
+  "hum0335.v1": {
+    "Research ID": "hum0335.v1 DRA014819",
+    "Study Title": "Research on new diagnosis and clinical picture of lymphoproliferative diseases by combining genetic analysis and immunological traits",
+    "Release Date": "v1:2022/09/14",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Illumina (NextSeq 500)",
+    "Participants/Materials (Ethnicity)": "Waldenström macroglobulinemia: 10 cases non IgM-type lymphoplasmacytic lymphoma: 10 cases (Japanese)",
+    "Data Provider": "Akihiko Yokohama",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0335.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "DRA014819"
+    ]
+  },
+  "hum0332.v1": {
+    "Research ID": "hum0332.v1 JGAS000510",
+    "Study Title": "A study on personalized medicine in genitourinary cancers using genetic biomarkers.",
+    "Release Date": "v1:2022/05/30",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "1 castration-resistant prostate cancer (Japanese)",
+    "Data Provider": "Shusuke Akamatsu",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0332.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000510"
+    ]
+  },
+  "hum0331.v1": {
+    "Research ID": "hum0331.v1",
+    "Study Title": "Construction of control data for the promotion of genomic medicine for cancers and rare diseases",
+    "Release Date": "v1:2023/02/01",
+    "Type of Study": "NGS (WGS)",
+    "Platform": "Illumina (NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "9290 healthy individuals (Japanese)",
+    "Data Provider": "Katsushi Tokunaga",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0331.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+
+    ]
+  },
+  "hum0329.v1": {
+    "Research ID": "hum0329.v1 JGAS000522",
+    "Study Title": "Next-generation sequencing-based comprehensive genetic analysis of undiagnosed disease",
+    "Release Date": "v1:2022/06/17",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "Patients with undiagnosed diseases and their parents: 177 families（522 samples） (Japanese)",
+    "Data Provider": "Hideki Muramatsu",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0329.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000522"
+    ]
+  },
+  "hum0328.v1": {
+    "Research ID": "hum0328.v1 JGAS000509",
+    "Study Title": "Frequency of germline variants in genes associated with DNA repair among adanced prostate cancer patients in Japan",
+    "Release Date": "v1:2023/05/11",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "prostate cancer: 129 cases (Japanese)",
+    "Data Provider": "Shusuke Akamatsu",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0328.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000509"
+    ]
+  },
+  "hum0327.v1": {
+    "Research ID": "hum0327.v1 JGAS000507",
+    "Study Title": "Screening of neoantigens and neoantigen reactive T cell receptors in hepatobiliary and pancreatic cancer for clinical application of personalized T cell therapy",
+    "Release Date": "v1:2022/02/25",
+    "Type of Study": "NGS (Exome, RNA-seq)",
+    "Platform": "Illumina (NextSeq 550)",
+    "Participants/Materials (Ethnicity)": "hepatocellular carcinoma: 28 cases metastatic colorectal carcinoma: 18 cases (Japanese)",
+    "Data Provider": "Toshihiro Suzuki",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0327.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000507"
+    ]
+  },
+  "hum0324.v1": {
+    "Research ID": "hum0324.v1 JGAS000515",
+    "Study Title": "Genetic analysis of cerebrovascular diseases and neuromuscular disorders",
+    "Release Date": "v1:2022/04/11",
+    "Type of Study": "NGS (WGBS)",
+    "Platform": "Illumina (NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "10 neuromyelitis optica (NMOSD) positive for AQP4 antibody 8 healthy controls (Japanese)",
+    "Data Provider": "Tatsusada Okuno",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0324.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000515"
+    ]
+  },
+  "hum0323.v1": {
+    "Research ID": "hum0323.v1 JGAS000489",
+    "Study Title": "Biomarker exploration of colon cancer",
+    "Release Date": "v1:2022/01/24",
+    "Type of Study": "NGS (CAGE-seq)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "45 colon cancers (Japanese)",
+    "Data Provider": "Yasushi Kogo",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0323.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000489"
+    ]
+  },
+  "hum0321.v1": {
+    "Research ID": "hum0321.v1 JGAS000482",
+    "Study Title": "Comprehensive analysis of interaction between human gene expression and environmental metagenomes",
+    "Release Date": "v1:2022/06/17",
+    "Type of Study": "NGS (scRNA-seq)",
+    "Platform": "Illumina (NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "Myasthenia gravis: 4 cases (Japanese)",
+    "Data Provider": "Tatsusada Okuno",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0321.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000482"
+    ]
+  },
+  "hum0320.v1": {
+    "Research ID": "hum0320.v1 JGAS000480",
+    "Study Title": "Immunomonitoring study in patients with malignant tumors",
+    "Release Date": "v1:2022/01/25",
+    "Type of Study": "NGS (scRNA-seq, TCR-seq)",
+    "Platform": "MGI (DNBSEQ-G400)",
+    "Participants/Materials (Ethnicity)": "lung adenocarcinoma: 2 cases head and neck cancer: 3 cases (Japanese)",
+    "Data Provider": "Yosuke Togashi",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0320.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000480"
+    ]
+  },
+  "hum0319.v1": {
+    "Research ID": "hum0319.v1 JGAS000487",
+    "Study Title": "Development of diagnostic markers for prostate cancer using genetic polymorphisms Identification of Rare Variants Involved in the Development of Prostate Cancer in Japanese",
+    "Release Date": "v1:2022/01/21",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "1,336 men with suspected prostate cancer scheduled for prostate biopsy (Japanese)",
+    "Data Provider": "Shusuke Akamatsu",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0319.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000487"
+    ]
+  },
+  "hum0318.v1": {
+    "Research ID": "hum0318.v1 JGAS000483",
+    "Study Title": "Clinical sequence of hematological malignancy",
+    "Release Date": "v1:2022/03/09",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Illumina (MiSeq)",
+    "Participants/Materials (Ethnicity)": "B-ALL: 1 case (Japanese)",
+    "Data Provider": "Arinobu Tojo",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0318.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000483"
+    ]
+  },
+  "hum0317.v1": {
+    "Research ID": "hum0317.v1 JGAS000413",
+    "Study Title": "Research on the establishment of patient derived xenograft models useful for drug discovery research",
+    "Release Date": "v1:2021/12/06",
+    "Type of Study": "NGS (Exome, RNA-seq)",
+    "Platform": "Illumina (NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "Non-small cell lung cancer: 4 cases (Japanese)",
+    "Data Provider": "Akinobu Hamada",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0317.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000413"
+    ]
+  },
+  "hum0316.v1": {
+    "Research ID": "hum0316.v1 JGAS000535",
+    "Study Title": "Whole-genome sequencing of esophageal cancer to elucidate pathogenesis and search for treatment-sensitive markers",
+    "Release Date": "v1:2022/05/26",
+    "Type of Study": "NGS (WGS, RNA-seq)",
+    "Platform": "Illumina (HiSeq 2000/2500)",
+    "Participants/Materials (Ethnicity)": "Esophageal squamous cell carcinoma: 110 cases",
+    "Data Provider": "Hidewaki Nakagawa",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0316.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000535"
+    ]
+  },
+  "hum0315.v2": {
+    "Research ID": "hum0315.v2 JGAS000385",
+    "Study Title": "Comprehensive analysis of genetic alterations in hematological malignancies",
+    "Release Date": "v1:2022/01/14 v2:2022/07/28",
+    "Type of Study": "NGS (Exome, RNA-seq, scRNA-seq, ChIP-seq, Target Capture) Methylation array",
+    "Platform": "Illumina (HiSeq 2500/X Ten, Infinium MethylationEPIC, Infinium Human Methylation 450K)",
+    "Participants/Materials (Ethnicity)": "84 infants with KMT2A-rearranged acute lymphoblastic leukemia 3 cell lines derived from infants with KMT2A-rearranged acute lymphoblastic leukemia (Japanese)",
+    "Data Provider": "Junko Takita",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0315.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000385"
+    ]
+  },
+  "hum0314.v1": {
+    "Research ID": "hum0314.v1 JGAS000383",
+    "Study Title": "Analysis of the relationship between disease phenotype and genotype in patients with Alzheimer's disease",
+    "Release Date": "v1:2021/11/19",
+    "Type of Study": "SNP-chip",
+    "Platform": "Illumina (Infinium OmniExpressExome-8 BeadChip)",
+    "Participants/Materials (Ethnicity)": "102 patients with sporadic Alzheimer's disease (Japanese)",
+    "Data Provider": "Haruhisa Inoue",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0314.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000383"
+    ]
+  },
+  "hum0311.v4": {
+    "Research ID": "hum0311.v4 JGAS000412 JGAS000541 JGAS000561",
+    "Study Title": "Management of Biobank Japan and the investigation of disease biomarkers for the realization of personalized medicine",
+    "Release Date": "v1:2021/11/30 v2:2022/07/28 v3:2022/09/08 v4:2023/04/24",
+    "Type of Study": "SNP-chip Metabolome",
+    "Platform": "Illumina (Asian Screening Array) Bruker (AVANCE IIIHD)",
+    "Participants/Materials (Ethnicity)": "11,716 + 180,882 + 1,285 + 2,570 patients from BBJ 1st cohort 42,689 patients from BBJ 2nd cohort (Japanese)",
+    "Data Provider": "Koichi Matsuda",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0311.v4",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000412",
+      "JGAS000541",
+      "JGAS000561"
+    ]
+  },
+  "hum0309.v1": {
+    "Research ID": "hum0309.v1 JGAS000416",
+    "Study Title": "Comparison between sebum and stratum corneum molecules.",
+    "Release Date": "v1:2022/03/11",
+    "Type of Study": "NGS (RNA-seq)",
+    "Platform": "Thermo Fisher Scientific (Ion S5)",
+    "Participants/Materials (Ethnicity)": "10 healthy male subjects (Japanese)",
+    "Data Provider": "Takayoshi Inoue",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0309.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000416"
+    ]
+  },
+  "hum0308.v1": {
+    "Research ID": "hum0308.v1 JGAS000417",
+    "Study Title": "Circadian rhythm of skin molecules.",
+    "Release Date": "v1:2022/03/11",
+    "Type of Study": "NGS (RNA-seq)",
+    "Platform": "Thermo Fisher Scientific (Ion S5)",
+    "Participants/Materials (Ethnicity)": "10 healthy female subjects (Japanese)",
+    "Data Provider": "Takayoshi Inoue",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0308.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000417"
+    ]
+  },
+  "hum0307.v1": {
+    "Research ID": "hum0307.v1 JGAS000416",
+    "Study Title": "Analysis for skin molecules in patients with atopic dermatitis No.2.",
+    "Release Date": "v1:2022/03/11",
+    "Type of Study": "NGS (RNA-seq)",
+    "Platform": "Thermo Fisher Scientific (Ion S5)",
+    "Participants/Materials (Ethnicity)": "29 healthy male subjects atopic dermatitis: 30 cases (Japanese)",
+    "Data Provider": "Takayoshi Inoue",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0307.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000416"
+    ]
+  },
+  "hum0306.v1": {
+    "Research ID": "hum0306.v1 JGAS000361",
+    "Study Title": "Cancer Genome Sequencing Analysis",
+    "Release Date": "v1:2021/10/15",
+    "Type of Study": "NGS (WGS)",
+    "Platform": "Nanopore (MinION)",
+    "Participants/Materials (Ethnicity)": "9 liver cancers (Japanese)",
+    "Data Provider": "Hidewaki Nakagawa",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0306.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000361"
+    ]
+  },
+  "hum0305.v1": {
+    "Research ID": "hum0305.v1 JGAS000377",
+    "Study Title": "A multicenter study of biological and genetic manifestations of subsequent solid cancers after hematopoietic cell transplantation",
+    "Release Date": "v1:2021/11/29",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (NovaSeq 6000) MGI (DNBSEQ-G400)",
+    "Participants/Materials (Ethnicity)": "14 de novo cancer patients (Japanese)",
+    "Data Provider": "Yoshihiro Inamoto",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0305.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000377"
+    ]
+  },
+  "hum0304.v1": {
+    "Research ID": "hum0304.v1 JGAS000370",
+    "Study Title": "Exome sequencing of human breast cancer tissues resistant to taxanes.",
+    "Release Date": "v1:2022/04/08",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000/2500)",
+    "Participants/Materials (Ethnicity)": "6 breast cancers (Japanese)",
+    "Data Provider": "Yumi Wanifuchi-Endo",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0304.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000370"
+    ]
+  },
+  "hum0302.v1": {
+    "Research ID": "hum0302.v1 JGAS000382",
+    "Study Title": "iPS Cell Advanced Characterization and Development of modified iPS cells",
+    "Release Date": "v1:2022/09/05",
+    "Type of Study": "NGS (RNA-seq)",
+    "Platform": "Illumina (NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "iPS cells derived from patients with Wilson's disease: 6 samples iPS cells derived from healthy donors: 6 samples (Cell-line)",
+    "Data Provider": "Yohei Hayashi",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0302.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000382"
+    ]
+  },
+  "hum0301.v1": {
+    "Research ID": "hum0301.v1 JGAS000368",
+    "Study Title": "An integrative analysis study of genomic abnormalities and immune status in breast cancer patients and high-risk individuals (Immuno-Genome Atlas Project)",
+    "Release Date": "v1:2021/11/29",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Illumina (HiSeq 2500, NovaSeq 6000) MGI (DNBSEQ-G400)",
+    "Participants/Materials (Ethnicity)": "26 patients with breast cancer (Japanese)",
+    "Data Provider": "Hiroyuki Mano",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0301.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000368"
+    ]
+  },
+  "hum0300.v1": {
+    "Research ID": "hum0300.v1 JGAS000367",
+    "Study Title": "Whole-genome and whole-exome analyses of cancer",
+    "Release Date": "v1:2021/11/12",
+    "Type of Study": "NGS (Exome, RNA-seq)",
+    "Platform": "Illumina (HiSeq 2000/2500)",
+    "Participants/Materials (Ethnicity)": "89 Esophageal squamous cell carcinomas (Japanese)",
+    "Data Provider": "Johji Inazawa",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0300.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000367"
+    ]
+  },
+  "hum0299.v1": {
+    "Research ID": "hum0299.v1 DRA012759",
+    "Study Title": "Analysis of chromosome background of cancerous mutations using a long read sequencer",
+    "Release Date": "v1:2022/09/15",
+    "Type of Study": "NGS (WGS)",
+    "Platform": "Nanopore (PromethION)",
+    "Participants/Materials (Ethnicity)": "Healthy white B-Lymphocyte cell line HG002 (NA24385): 1 sample (Cell-line)",
+    "Data Provider": "Yutaka Suzuki",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0299.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "DRA012759"
+    ]
+  },
+  "hum0297.v1": {
+    "Research ID": "hum0297.v1 JGAS000348",
+    "Study Title": "Comprehensive study of color vision diversity",
+    "Release Date": "v1:2022/09/15",
+    "Type of Study": "NGS (WGS)",
+    "Platform": "Illumina (NovaSeq 6000) Nanopore (PromethION)",
+    "Participants/Materials (Ethnicity)": "1 healthy donor",
+    "Data Provider": "Chihiro Hiramatsu",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0297.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000348"
+    ]
+  },
+  "hum0293.v1": {
+    "Research ID": "hum0293.v1 JGAS000320",
+    "Study Title": "Exploratory research of genetic factors that regulate the therapeutic sensitivity of hematopoietic malignancy",
+    "Release Date": "v1:2022/07/25",
+    "Type of Study": "NGS (WGS)",
+    "Platform": "Illumina (HiSeqX10) BGI (BGISEQ-500)",
+    "Participants/Materials (Ethnicity)": "ATL: 7 cases ATL cell line: 1 sample (Japanese)",
+    "Data Provider": "Takaomi Sanda",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0293.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000320"
+    ]
+  },
+  "hum0292.v1": {
+    "Research ID": "hum0292.v1 JGAS000330",
+    "Study Title": "Development of blood-based biomarkers for precision medicine in castration-resistant prostate cancer",
+    "Release Date": "v1:2021/09/24",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Illumina (NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "100 CRPC patients (Japanese)",
+    "Data Provider": "Shusuke Akamatsu",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0292.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000330"
+    ]
+  },
+  "hum0291.v1": {
+    "Research ID": "hum0291.v1 JGAS000359",
+    "Study Title": "Elucidation of molecular mechanisms of tumorigenesis and development of diagnoses and treatments based on comprehensive genomic analyses in pancreatic tumors, duodenal tumors and biliary tumors",
+    "Release Date": "v1:2021/12/10",
+    "Type of Study": "NGS (WGS, Exome)",
+    "Platform": "Illumina (HiSeq 2000/2500)",
+    "Participants/Materials (Ethnicity)": "Pancreatic tumor: 57 cases Duodenal tumor: 6 cases Biliary tumors: 11 cases (Japanese)",
+    "Data Provider": "Shinichi Yachida",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0291.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000359"
+    ]
+  },
+  "hum0290.v1": {
+    "Research ID": "hum0290.v1 JGAS000321",
+    "Study Title": "Comprehensive analysis of interaction between human gene expression and environmental metagenomes",
+    "Release Date": "v1:2022/03/07",
+    "Type of Study": "NGS (WGS, scRNA-seq, TCR-seq, BCR-seq, CyTOF)",
+    "Platform": "Illumina (NovaSeq 6000) 10x Genomics (Chromium Controller)",
+    "Participants/Materials (Ethnicity)": "7 healthy volunteers (Japanese)",
+    "Data Provider": "Yutaka Suzuki",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0290.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000321"
+    ]
+  },
+  "hum0289.v1": {
+    "Research ID": "hum0289.v1 JGAS000317",
+    "Study Title": "Mechanisms on relapse after allogeneic hematopoietic cell transplantation in CMML",
+    "Release Date": "v1:2022/09/09",
+    "Type of Study": "NGS (RNA-seq, Exome) Methylation array",
+    "Platform": "Illumina (NovaSeq 6000, Infinium MethylationEPIC)",
+    "Participants/Materials (Ethnicity)": "chronic myelomonocytic leukemia (CMML): 1 case (Japanese)",
+    "Data Provider": "Yu Akahoshi",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0289.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000317"
+    ]
+  },
+  "hum0287.v2": {
+    "Research ID": "hum0287.v2 JGAS000310 JGAS000573",
+    "Study Title": "Genome sequence comparison of human iPS cell lines",
+    "Release Date": "v1:2021/11/02 v2:2023/03/29",
+    "Type of Study": "NGS (WGS)",
+    "Platform": "Illumina (HiSeq X) Nanopore (PromethION)",
+    "Participants/Materials (Ethnicity)": "5 Human iPS cell lines (Cell-line)",
+    "Data Provider": "Shihori Yokobayashi",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0287.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000310",
+      "JGAS000573"
+    ]
+  },
+  "hum0286.v2": {
+    "Research ID": "hum0286.v2 JGAS000311 JGAS000523",
+    "Study Title": "Elucidation of molecular mechanism of NAFLD-HCC",
+    "Release Date": "v1:2022/09/12 v2:2022/11/15",
+    "Type of Study": "NGS (Visium Spatial Gene Expression, Target Capture) Histological image",
+    "Platform": "Illumina (NovaSeq 6000) Thermo Fisher Scientific (Ion Proton)",
+    "Participants/Materials (Ethnicity)": "55 hepatocellular carcinoma (Japanese)",
+    "Data Provider": "Takahiro Kodama (Genome Science)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0286.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000311",
+      "JGAS000523"
+    ]
+  },
+  "hum0284.v1": {
+    "Research ID": "hum0284.v1 JGAS000309",
+    "Study Title": "Elucidation of the molecular mechanism that controls the transition from precancerous lesions to invasive cancer due to disruption of biological maintenance function",
+    "Release Date": "v1:2023/01/19",
+    "Type of Study": "NGS (scRNA-seq)",
+    "Platform": "Illumina (NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "Breast cancer: 4 cases (Japanese)",
+    "Data Provider": "Jun Nakayama",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0284.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000309"
+    ]
+  },
+  "hum0280.v1": {
+    "Research ID": "hum0280.v1 DRA012560",
+    "Study Title": "The research for the identification of neoantigen and tumor immune microenvironment in lung cancer",
+    "Release Date": "v1:2022/01/07",
+    "Type of Study": "NGS (RNA-seq)",
+    "Platform": "Illumina (NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "lung cancer: 113 cases (Japanese)",
+    "Data Provider": "Hirokazu Matsushita",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0280.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "DRA012560"
+    ]
+  },
+  "hum0279.v1": {
+    "Research ID": "hum0279.v1 JGAS000307",
+    "Study Title": "Stratification of refractory malignant lymphoma by genomic/epigenomic analysis and immunohistochemistry and development of novel therapeutic approaches",
+    "Release Date": "v1:2022/09/05",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Illumina (NextSeq 550)",
+    "Participants/Materials (Ethnicity)": "177 patients with diffuse large B-cell lymphoma (Japanese)",
+    "Data Provider": "Emiko Sakaida",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0279.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000307"
+    ]
+  },
+  "hum0278.v1": {
+    "Research ID": "hum0278.v1 JGAS000304 JGAS000305",
+    "Study Title": "Analysis of genome of breast cancer stem cells",
+    "Release Date": "v1:2022/07/07",
+    "Type of Study": "NGS (Exome, scRNA-seq)",
+    "Platform": "Illumina (Hiseq 3000/NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "Breast cancer: 5 cases (Japanese)",
+    "Data Provider": "Noriko Gotoh",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0278.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000304",
+      "JGAS000305"
+    ]
+  },
+  "hum0277.v3": {
+    "Research ID": "hum0277.v3 JGAS000303 JGAS000564",
+    "Study Title": "Analysis of genes related to the oncogenesis, progression or effectiveness of drug therapies of urological tumors",
+    "Release Date": "v1:2022/09/09 v2:2023/04/18 v3:2023/05/10",
+    "Type of Study": "NGS (scRNA-seq, Exome, RNA-seq, WGS)",
+    "Platform": "Illumina (NextSeq 500, HiSeq 2500, NovaSeq 6000/PE150)",
+    "Participants/Materials (Ethnicity)": "renal cell carcinoma: 15 + 30 cases sporadic oncocytoma: 7 cases (Japanese)",
+    "Data Provider": "Hisashi Hasumi",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0277.v3",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000303",
+      "JGAS000564"
+    ]
+  },
+  "hum0276.v1": {
+    "Research ID": "hum0276.v1 JGAS000308",
+    "Study Title": "Development of a general-purpose genetic diagnostic panel for Gorlin syndrome and its application to liquid biopsy",
+    "Release Date": "v1:2021/10/01",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Illumina (MiSeq)",
+    "Participants/Materials (Ethnicity)": "12 patients with Gorlin syndrome 3 blood relatives (Japanese)",
+    "Data Provider": "Toshifumi Azuma",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0276.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000308"
+    ]
+  },
+  "hum0275.v1": {
+    "Research ID": "hum0275.v1 JGAS000313",
+    "Study Title": "Comprehensive analysis of genetic abnormalities in solid tumors",
+    "Release Date": "v1:2021/08/16",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "Nine subjects without Hp infection or gastric cancer (healthy population) (Japanese)",
+    "Data Provider": "Seishi Ogawa",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0275.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000313"
+    ]
+  },
+  "hum0274.v1": {
+    "Research ID": "hum0274.v1 JGAS000294",
+    "Study Title": "Integrated analysis of selective mRNA export by mRNA export factors, UAP56 and URH49",
+    "Release Date": "v1:2022/04/22",
+    "Type of Study": "NGS (RNA-seq)",
+    "Platform": "Illumina (NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "HeLa cells with knockdown of the target genes: 20 samples (Cell-line)",
+    "Data Provider": "Kenichi Fujita",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0274.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000294"
+    ]
+  },
+  "hum0273.v1": {
+    "Research ID": "hum0273.v1 JGAS000300",
+    "Study Title": "A study of molecular pathology for carcinogenesis and progression of breast cancer",
+    "Release Date": "v1:2021/08/27",
+    "Type of Study": "NGS (Amplicon-seq)",
+    "Platform": "Thermo Fisher Scientific (Ion Proton)",
+    "Participants/Materials (Ethnicity)": "2 patients of lobular carcinoma in situ with ductal carcinoma in situ (Japanese)",
+    "Data Provider": "Shinobu Masuda",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0273.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000300"
+    ]
+  },
+  "hum0272.v2": {
+    "Research ID": "hum0272.v2 JGAS000285",
+    "Study Title": "Analysis of the immune status of melanoma and other skin tumors",
+    "Release Date": "v1:2021/12/20 v2:2022/02/07",
+    "Type of Study": "NGS (Exome, RNA-seq, scRNA-seq, scTCR-seq)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "melanoma: 4 cases (Japanese)",
+    "Data Provider": "Takashi Inozume",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0272.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000285"
+    ]
+  },
+  "hum0271.v1": {
+    "Research ID": "hum0271.v1 JGAS000288",
+    "Study Title": "Comprehensive genome analysis related to individual differences in phenotypic expression in autosomal dominant diseases caused by haploinsufficiency",
+    "Release Date": "v1:2021/05/11",
+    "Type of Study": "NGS (Target Capture, Target RNA-seq)",
+    "Platform": "Illumina (MiSeq)",
+    "Participants/Materials (Ethnicity)": "20 patients with neurofibromatosis type 1 (Japanese)",
+    "Data Provider": "Yo Niida",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0271.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000288"
+    ]
+  },
+  "hum0270.v1": {
+    "Research ID": "hum0270.v1 JGAS000282",
+    "Study Title": "Translational research for elucidating molecular and pathological abnormalities specific to bone and soft tissue tumors based on genomic and genetic analysis, and for developing new diagnostic and therapeutic strategies",
+    "Release Date": "v1:2022/05/19",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Thermo Fisher Scientific (Ion Torrent Proton)",
+    "Participants/Materials (Ethnicity)": "16 pediatric Osteosarcoma patients (Japanese)",
+    "Data Provider": "Tsukasa Yonemoto",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0270.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000282"
+    ]
+  },
+  "hum0269.v1": {
+    "Research ID": "hum0269.v1 JGAS000295",
+    "Study Title": "Sensitive gene analysis of hereditary cardiovascular disease",
+    "Release Date": "v1:2021/05/25",
+    "Type of Study": "NGS (Exome, RNA-seq)",
+    "Platform": "Illumina (HiSeq 2500/3000)",
+    "Participants/Materials (Ethnicity)": "hereditary cardiovascular disease: 13 cases (Japanese)",
+    "Data Provider": "Yoshihiro Asano",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0269.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000295"
+    ]
+  },
+  "hum0268.v1": {
+    "Research ID": "hum0268.v1 JGAS000280",
+    "Study Title": "Direct and comprehensive identification of neoantigens using cancer tissues",
+    "Release Date": "v1:2021/04/09",
+    "Type of Study": "NGS (Iso-seq, CAGE-seq, RNA-seq)",
+    "Platform": "Illumina (NextSeq 500, NovaSeq 6000) PacBio (Sequel)",
+    "Participants/Materials (Ethnicity)": "Human colon cancer cell line: 1 sample (Cell-line) Colon cancer: 6 patients (Japanese)",
+    "Data Provider": "Takayuki Kanaseki",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0268.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000280"
+    ]
+  },
+  "hum0266.v1": {
+    "Research ID": "hum0266.v1 JGAS000281",
+    "Study Title": "Elucidation of the pathogenesis of autoimmune dermatosis using patient samples.",
+    "Release Date": "v1:2022/12/27",
+    "Type of Study": "NGS (scRNA-seq)",
+    "Platform": "Illumina (NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "3 patients with pemphigus 3 healthy controls (Japanese)",
+    "Data Provider": "Shohei Egami",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0266.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000281"
+    ]
+  },
+  "hum0264.v2": {
+    "Research ID": "hum0264.v2 JGAS000508",
+    "Study Title": "Elucidation of the pathogenesis and identification of susceptibility genes for sleep disorders by genetic and functional analyses.",
+    "Release Date": "v1:2022/02/07 v2:2022/02/28",
+    "Type of Study": "SNP-chip",
+    "Platform": "Affymetrix (SNP Array 6.0)",
+    "Participants/Materials (Ethnicity)": "Idiopathic hypersomnia: 129 cases (Japanese)",
+    "Data Provider": "Makoto Honda",
+    "Type of Data": "Unrestricted-access Controlled-access (Type I)",
+    "identifier": "hum0264.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000508"
+    ]
+  },
+  "hum0262.v1": {
+    "Research ID": "hum0262.v1 JGAS000267",
+    "Study Title": "Identification of biomarkers for prediction of efficacy of microtubule inhibitors and antifolates in non-small cell lung cancer",
+    "Release Date": "v1:2021/05/11",
+    "Type of Study": "NGS (RNA-seq)",
+    "Platform": "Illumina (HiSeq 1500/2500)",
+    "Participants/Materials (Ethnicity)": "Lung Adenocarcinoma: 24 cases (Japanese)",
+    "Data Provider": "Katsuya Tsuchihara",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0262.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000267"
+    ]
+  },
+  "hum0261.v2": {
+    "Research ID": "hum0261.v2",
+    "Study Title": "Genome-wide association study of primary biliary cholangitis (PBC) －an additional study of 1,000 Japanese PBC patients－",
+    "Release Date": "v1:2021/01/08 v2:2021/01/19",
+    "Type of Study": "SNP-chip",
+    "Platform": "Affymetrix (Axiom Genome-Wide ASI 1 Array, Japonica Array v1)",
+    "Participants/Materials (Ethnicity)": "1,953 PBCs and 3,690 healthy controls (Japanese)",
+    "Data Provider": "Minoru Nakamura",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0261.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+
+    ]
+  },
+  "hum0257.v2": {
+    "Research ID": "hum0257.v2 JGAS000262 JGAS000263 JGAS000264 JGAS000514 E-GEAD-414 E-GEAD-415 E-GEAD-416 E-GEAD-417 GSE202023",
+    "Study Title": "Development of culturing methods amplifying micro-specimens derived from human pancreas and biliary tract tissues",
+    "Release Date": "v1:2021/12/24 v2:2023/01/10",
+    "Type of Study": "NGS (Exome, RNA-seq, ATAC-seq, ChIP-seq, Hi-C)",
+    "Platform": "Illumina (NovaSeq 6000, HiSeq 2500, NextSeq 500)",
+    "Participants/Materials (Ethnicity)": "Pancreatic ductal adenocarcinoma: 17 cases Intraductal papillary mucinous neoplasm: 6 cases (Japanese)",
+    "Data Provider": "Keisuke Tateishi (Genome Science)",
+    "Type of Data": "Unrestricted-access Controlled-access (Type I)",
+    "identifier": "hum0257.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000262",
+      "JGAS000263",
+      "JGAS000264",
+      "JGAS000514",
+      "E-GEAD-414",
+      "E-GEAD-415",
+      "E-GEAD-416",
+      "E-GEAD-417",
+      "GSE202023"
+    ]
+  },
+  "hum0254.v1": {
+    "Research ID": "hum0254.v1 JGAS000257",
+    "Study Title": "Development of sequencing library preparation method from cell-free DNA in blood",
+    "Release Date": "v1:2021/09/24",
+    "Type of Study": "NGS (WGS)",
+    "Platform": "Illumina (MiSeq, HiSeq X Ten)",
+    "Participants/Materials (Ethnicity)": "5 healthy individuals (Japanese)",
+    "Data Provider": "Fumihito Miura",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0254.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000257"
+    ]
+  },
+  "hum0252.v1": {
+    "Research ID": "hum0252.v1 JGAS000301",
+    "Study Title": "Study for molecular characteristics of adult T-cell leukemia-lymphoma and HTLV-1-associated diseases",
+    "Release Date": "v1:2021/07/12",
+    "Type of Study": "NGS (Target Capture, RNA-seq, scRNA-seq)",
+    "Platform": "Illumina (HiSeq 2500/3000)",
+    "Participants/Materials (Ethnicity)": "ATL: 6 cases (Japanese) HTLV-1 infected carriers: 10 cases (Japanese) CD4+ T cells from 3 healthy donors (Cell-line)",
+    "Data Provider": "Makoto Yamagishi",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0252.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000301"
+    ]
+  },
+  "hum0251.v1": {
+    "Research ID": "hum0251.v1 JGAS000278",
+    "Study Title": "Phase II clinical trial of adult Philadelphia chromosome-negative precursor B-cell acute lymphocytic leukemia with combination chemotherapy",
+    "Release Date": "v1:2022/10/25",
+    "Type of Study": "NGS (RNA-seq, Target Capture)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "153 patients with Ph-negative B-ALL (Japanese)",
+    "Data Provider": "Yoshihiro Hatta",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0251.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000278"
+    ]
+  },
+  "hum0250.v1": {
+    "Research ID": "hum0250.v1 JGAS000277",
+    "Study Title": "Brain Mapping by Integrated Neurotechnologies for Disease Studies: Human Brain Aging Imaging Study",
+    "Release Date": "v1:2021/03/29",
+    "Type of Study": "Neuroimage Clinical Info",
+    "Platform": "MRI Scanners (1 Model) PET Scanners (1 Model)",
+    "Participants/Materials (Ethnicity)": "11 MCI  28 healthly controls  (Japanese)",
+    "Data Provider": "Takeshi Iwatsubo",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0250.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000277"
+    ]
+  },
+  "hum0249.v1": {
+    "Research ID": "hum0249.v1 JGAS000248",
+    "Study Title": "Elucidation of pathological conditions and development of therapeutic methods using iPS cells derived from patients with hard tissue/connective tissue related diseases",
+    "Release Date": "v1:2020/09/01",
+    "Type of Study": "NGS (CAGE-seq)",
+    "Platform": "Illumina (NextSeq 500)",
+    "Participants/Materials (Ethnicity)": "3 patients with hard tissue/connective tissue related diseases (Japanese)",
+    "Data Provider": "Toshifumi Azuma",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0249.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000248"
+    ]
+  },
+  "hum0248.v2": {
+    "Research ID": "hum0248.v2 JGAS000259",
+    "Study Title": "Establishment of a Japanese reference genome sequence by high-precision long-read sequencing",
+    "Release Date": "v1:2020/10/30 v2:2020/11/06",
+    "Type of Study": "NGS (WGS)",
+    "Platform": "PacBio (RS II) Bionano (Irys, Saphyr) Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "3 Japanese male individuals (Japanese)",
+    "Data Provider": "Masayuki Yamamoto",
+    "Type of Data": "Unrestricted-access Controlled-access (Type II)",
+    "identifier": "hum0248.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000259"
+    ]
+  },
+  "hum0247.v1": {
+    "Research ID": "hum0247.v1 JGAS000249 DRA010773",
+    "Study Title": "Research for gene mutations in cancer representing immune status of the patients",
+    "Release Date": "v1:2021/01/04",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 1500)",
+    "Participants/Materials (Ethnicity)": "3 malignant melanoma patients (Japanese)",
+    "Data Provider": "Takashi Iwata",
+    "Type of Data": "Unrestricted-access Controlled-access (Type I)",
+    "identifier": "hum0247.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000249",
+      "DRA010773"
+    ]
+  },
+  "hum0245.v1": {
+    "Research ID": "hum0245.v1 JGAS000276",
+    "Study Title": "Comprehensive Genome analysis of adult acute lymphoblastic leukemia (JALSG ALL202U-GWS)",
+    "Release Date": "v1:2022/10/25",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "46 patients with Ph-negative ALL (Japanese)",
+    "Data Provider": "Fumihiko Hayakawa",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0245.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000276"
+    ]
+  },
+  "hum0243.v1": {
+    "Research ID": "hum0243.v1 JGAS000253",
+    "Study Title": "Development of humanized mice for human immunity research/Construction of disease and treatment model using iPS cells derived from human hematopoitec cells.",
+    "Release Date": "v1:2020/11/20",
+    "Type of Study": "NGS (RNA-seq, CAGE-seq)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "Cord blood: 24 individuals Acute Myeloid Leukemia: 116 cases (Japanese)",
+    "Data Provider": "Fumihiko Ishikawa",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0243.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000253"
+    ]
+  },
+  "hum0242.v1": {
+    "Research ID": "hum0242.v1 JGAS000243",
+    "Study Title": "Frequent post-treatment monitoring of colorectal cancer using individualized ctDNA validated by multi-regional molecular profiling",
+    "Release Date": "v1:2021/01/05",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "12 colorectal cancer patients (Japanese)",
+    "Data Provider": "Satsoshi Nishizuka",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0242.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000243"
+    ]
+  },
+  "hum0240.v1": {
+    "Research ID": "hum0240.v1 JGAS000258",
+    "Study Title": "Whole genome sequence analysis in patients with primary central nervous system lymphomas",
+    "Release Date": "v1:2020/10/30",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Thermo Fisher Scientific (Ion Torrent)",
+    "Participants/Materials (Ethnicity)": "28 PCNSL patinets (Japanese)",
+    "Data Provider": "Ryuya Yamanaka",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0240.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000258"
+    ]
+  },
+  "hum0239.v1": {
+    "Research ID": "hum0239.v1 JGAS000241",
+    "Study Title": "Genomic and Proteomic comprehensive analysis related to cancer, infectious diseases, intractable diseases and lifestyle-related diseases",
+    "Release Date": "v1:2020/07/27",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Thermo Fisher Scientific (Ion Proton)",
+    "Participants/Materials (Ethnicity)": "19 patients with urothelial bladder cancer (Japanese)",
+    "Data Provider": "Yosuke Hirotsu",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0239.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000241"
+    ]
+  },
+  "hum0238.v1": {
+    "Research ID": "hum0238.v1 JGAS000240",
+    "Study Title": "Development of personalized medicine",
+    "Release Date": "v1:2020/07/28",
+    "Type of Study": "NGS (WGS)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "3 participants of BBJ (Japanese)",
+    "Data Provider": "Yukihide Momozawa",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0238.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000240"
+    ]
+  },
+  "hum0237.v1": {
+    "Research ID": "hum0237.v1",
+    "Study Title": "Whole genome and RNA analysis of geriatric disease in Japanese",
+    "Release Date": "v1:2021/03/05",
+    "Type of Study": "SNP-chip",
+    "Platform": "Affymetrix (Japonica Array, GeneChip 6.0 microarrays)",
+    "Participants/Materials (Ethnicity)": "Alzheimer's disease: 3,962 cases 4,074 controls (Japanese)",
+    "Data Provider": "Kouichi Ozaki",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0237.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+
+    ]
+  },
+  "hum0236.v1": {
+    "Research ID": "hum0236.v1 JGAS000245",
+    "Study Title": "Development of tumor infiltrating lymphocytes therapy targeting gene mutation of lung cancer",
+    "Release Date": "v1:2020/12/14",
+    "Type of Study": "NGS (Exome, RNA-seq)",
+    "Platform": "Illumina (HiSeq 2500) Nanopore (MinION)",
+    "Participants/Materials (Ethnicity)": "7 non-small cell lung cancer patients (Japanese)",
+    "Data Provider": "Tetsuya Nakatsura",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0236.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000245"
+    ]
+  },
+  "hum0235.v1": {
+    "Research ID": "hum0235.v1 JGAS000272",
+    "Study Title": "Evaluation and imaging study of the preclinical stage of Alzheimer's disease in Japan",
+    "Release Date": "v1:2021/04/06",
+    "Type of Study": "Neuroimage Clinical Info",
+    "Platform": "MRI Scanners (9 Models) PET Scanners (11 Models)",
+    "Participants/Materials (Ethnicity)": "25 healthly controls  3 preclinical AD  7 early MCI  5 late MCI  (Japanese)",
+    "Data Provider": "Hiroyuki Shimada",
+    "Type of Data": "Unrestricted-access Controlled-access (Type I)",
+    "identifier": "hum0235.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000272"
+    ]
+  },
+  "hum0233.v1": {
+    "Research ID": "hum0233.v1 JGAS000236",
+    "Study Title": "Paediatric Hepatic International Tumour Trial (JPLT4: PHITT)",
+    "Release Date": "v1:2021/05/31",
+    "Type of Study": "NGS (Exome, RNA-seq, WGBS) SNP array Methylation array",
+    "Platform": "Illumina (HiSeq 2500, Infinium Human Methylation 450K BeadChip) Affymetrix (SNP Array 6.0)",
+    "Participants/Materials (Ethnicity)": "165 pediatric hepatoblastomas (Japanese)",
+    "Data Provider": "Eiso Hiyama",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0233.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000236"
+    ]
+  },
+  "hum0232.v1": {
+    "Research ID": "hum0232.v1 JGAS000231",
+    "Study Title": "Evaluation of metastasis and recurrence by monitoring circulating tumor DNA of gastric cancer",
+    "Release Date": "v1:2020/06/01",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "10 gastric cancer patients (Japanese)",
+    "Data Provider": "Satsoshi Nishizuka",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0232.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000231"
+    ]
+  },
+  "hum0229.v1": {
+    "Research ID": "hum0229.v1 JGAS000230",
+    "Study Title": "Identification and characterization of molecular markers in aging and neuronal disorders",
+    "Release Date": "v1:2020/05/15",
+    "Type of Study": "NGS (scRNA-seq)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "7 supercentenarians 2 family members 2 unrelated donors (Japanese)",
+    "Data Provider": "Piero Carninci",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0229.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000230"
+    ]
+  },
+  "hum0227.v1": {
+    "Research ID": "hum0227.v1 JGAS000228",
+    "Study Title": "Genomic and genetic analysis of gastric tumors and elucidation of its clinicopathological significance.",
+    "Release Date": "v1:2021/06/04",
+    "Type of Study": "NGS (Exome, RNA-seq)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "102 stomach adenocarcinomas (Japanese)",
+    "Data Provider": "Hiroyuki Aburatani",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0227.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000228"
+    ]
+  },
+  "hum0226.v1": {
+    "Research ID": "hum0226.v1 JGAS000229",
+    "Study Title": "Genomic and genetic analysis of upper gastrointestinal tumors and elucidation of its clinicopathological significance.",
+    "Release Date": "v1:2021/06/04",
+    "Type of Study": "NGS (Exome, RNA-seq)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "141 stomach adenocarcinomas (Japanese)",
+    "Data Provider": "Hiroyuki Aburatani",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0226.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000229"
+    ]
+  },
+  "hum0225.v1": {
+    "Research ID": "hum0225.v1 JGAS000226",
+    "Study Title": "Mortality and risk of progression to adult T-cell leukemia/lymphoma in patients with HTLV-1-associated myelopathy/tropical spastic paraparesis",
+    "Release Date": "v1:2020/05/08",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Illumina (HiSeq 2500/3000)",
+    "Participants/Materials (Ethnicity)": "HAM: 21 cases (Japanese)",
+    "Data Provider": "Makoto Yamagishi",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0225.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000226"
+    ]
+  },
+  "hum0223.v1": {
+    "Research ID": "hum0223.v1 JGAS000232",
+    "Study Title": "The analyses of gene mutations in hematology malignancy",
+    "Release Date": "v1:2020/09/01",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Thermo Fisher Scientific (Ion Proton)",
+    "Participants/Materials (Ethnicity)": "7 patients with multiple myeloma (Japanese)",
+    "Data Provider": "Yasuhito Terui",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0223.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000232"
+    ]
+  },
+  "hum0222.v1": {
+    "Research ID": "hum0222.v1 JGAS000224",
+    "Study Title": "Identification of responsible genes and development of standardized medicine for familial breast cancer by genetic analysis with NGS technology",
+    "Release Date": "v1:2020/03/13",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "115 breast cancer patients (Japanese)",
+    "Data Provider": "Shinji Ohno",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0222.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000224"
+    ]
+  },
+  "hum0220.v1": {
+    "Research ID": "hum0220.v1 JGAS000223",
+    "Study Title": "A study of influence of storage condition after blood collection on the plasma/serum comcentrations of compounds",
+    "Release Date": "v1:2020/06/02",
+    "Type of Study": "LC-MS/MS",
+    "Platform": "Sciex (TripleTOF 5600)",
+    "Participants/Materials (Ethnicity)": "3 heathy individuals (Japanese)",
+    "Data Provider": "Sumio Ohtsuki (AMED-Metabolites)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0220.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000223"
+    ]
+  },
+  "hum0218.v1": {
+    "Research ID": "hum0218.v1 E-GEAD-344",
+    "Study Title": "Gene expression analysis in systemic sclerosis",
+    "Release Date": "v1:2020/10/09",
+    "Type of Study": "NGS (scRNA-seq)",
+    "Platform": "Illumina (HiSeq)",
+    "Participants/Materials (Ethnicity)": "Systemic sclerosis: 3 cases (Japanese)",
+    "Data Provider": "Keishi Fujio",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0218.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "E-GEAD-344"
+    ]
+  },
+  "hum0217.v1": {
+    "Research ID": "hum0217.v1 JGAS000217",
+    "Study Title": "Identification of genetic alterations predicting cancer progression from colorectal polyps",
+    "Release Date": "v1:2020/03/02",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Thermo Fisher Scientific (Ion Torrent)",
+    "Participants/Materials (Ethnicity)": "50 colorectal serrated lesions (Japanese)",
+    "Data Provider": "Takeshi Sawada",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0217.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000217"
+    ]
+  },
+  "hum0216.v4": {
+    "Research ID": "hum0216.v4 JGAS000216 JGAS000244 JGAS000279",
+    "Study Title": "Analyses of immune status of patients with solid tumors including gastrointestinal cancer Investigation of anti-tumor immunological response in solid tumors",
+    "Release Date": "v1:2020/02/07 v2:2020/09/25 v3:2021/03/29 v4:2021/04/13",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2500, NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "17 patients with lung adenocarcinoma 26 + 23 patients with gastric cancer 9 patients with lung cancer 5 patients with malignant melanoma 7 patients with cololectal cancer (Japanese)",
+    "Data Provider": "Hiroyoshi Nishikawa",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0216.v4",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000216",
+      "JGAS000244",
+      "JGAS000279"
+    ]
+  },
+  "hum0215.v1": {
+    "Research ID": "hum0215.v1 JGAS000532",
+    "Study Title": "Whole genome and RNA analysis of geriatric disease in Japanese",
+    "Release Date": "v1:2022/09/28",
+    "Type of Study": "NGS (RNA-seq)",
+    "Platform": "Illumina (NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "Alzheimer's disease: 317 cases Mild cognitive impairment: 432 cases 107 Healthy controls (Japanese)",
+    "Data Provider": "Kouichi Ozaki",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0215.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000532"
+    ]
+  },
+  "hum0214.v8": {
+    "Research ID": "hum0214.v8 JGAS000220 JGAS000296 E-GEAD-397 E-GEAD-398 E-GEAD-420 JGAS000486 JGAS000598 JGAS000485",
+    "Study Title": "Integrative understanding of human immune system by functional genomics and development of intervention strategies for the prevention of autoimmune diseases",
+    "Release Date": "v1:2020/10/09 v2:2021/03/05 v3:2021/04/28 v4:2022/01/21 v5:2022/03/09 v6:2022/08/25 v7:2023/03/28 v8:2023/07/06",
+    "Type of Study": "NGS (RNA-seq) eQTL BCR repertoire analysis",
+    "Platform": "Illumina (HiSeq 2500, NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "10 Immune-mediated diseases: 538 cases 184 normal controls (Japanese)",
+    "Data Provider": "Keishi Fujio",
+    "Type of Data": "Unrestricted-access Controlled-access (Type I)",
+    "identifier": "hum0214.v8",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000220",
+      "JGAS000296",
+      "E-GEAD-397",
+      "E-GEAD-398",
+      "E-GEAD-420",
+      "JGAS000486",
+      "JGAS000598",
+      "JGAS000485"
+    ]
+  },
+  "hum0213.v1": {
+    "Research ID": "hum0213.v1 JGAS000238",
+    "Study Title": "Demographic History and Local Adaptation in Asian Population",
+    "Release Date": "v1:2022/07/15",
+    "Type of Study": "NGS (WGS)",
+    "Platform": "Illumina (HiSeq X Ten)",
+    "Participants/Materials (Ethnicity)": "60 Baltis individuals",
+    "Data Provider": "Min-Sheng Peng",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0213.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000238"
+    ]
+  },
+  "hum0210.v1": {
+    "Research ID": "hum0210.v1 JGAS000211",
+    "Study Title": "Comprehensive genomic analysis of hematological malignancies",
+    "Release Date": "v1:2020/04/06",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (NextSeq 500)",
+    "Participants/Materials (Ethnicity)": "1 patient with concomitant acute myeloid leukemia and mediastinal germ cell tumor (Japanese)",
+    "Data Provider": "Kazuya Shimoda",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0210.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000211"
+    ]
+  },
+  "hum0209.v1": {
+    "Research ID": "hum0209.v1",
+    "Study Title": "Genetic and clinical prediction models for the efficacy and hepatotoxicity of methotrexate in patients with rheumatoid arthritis: a multicenter cohort study",
+    "Release Date": "v1:2019/12/13",
+    "Type of Study": "SNP-chip Direct sequencing",
+    "Platform": "Thermo Fisher Scientific (GeneChip® Scanner 3000 7G) Applied Biosystems (Veriti 96-Well Thermal Cycler and 3730XL DNA Analyzer)",
+    "Participants/Materials (Ethnicity)": "Rheumatoid arthritis: 166 cases (Japanese)",
+    "Data Provider": "Shunichi Kumagai",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0209.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+
+    ]
+  },
+  "hum0208.v1": {
+    "Research ID": "hum0208.v1 JGAS000214",
+    "Study Title": "Comprehensive genetic analysis and database construction for head and neck cancer",
+    "Release Date": "v1:2020/01/20",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq X Ten)",
+    "Participants/Materials (Ethnicity)": "10 patients with cancer of the external auditory canal (Japanese)",
+    "Data Provider": "Takashi Nakagawa",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0208.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000214"
+    ]
+  },
+  "hum0207.v1": {
+    "Research ID": "hum0207.v1",
+    "Study Title": "Analysis of gene polymorphism and gene expression in human immune cells",
+    "Release Date": "v1:2020/01/06",
+    "Type of Study": "NGS (RNA-seq, ChIP-seq, Hi-C) eQTL",
+    "Platform": "Illumina (HiSeq 2500, HiSeq series, Infinium OmniExpressExome BeadChips)",
+    "Participants/Materials (Ethnicity)": "rheumatoid arthritis: 30 cases osteoarthritis: 30 cases (Japanese)",
+    "Data Provider": "Keishi Fujio",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0207.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+
+    ]
+  },
+  "hum0206.v1": {
+    "Research ID": "hum0206.v1 JGAS000207",
+    "Study Title": "Establishment and characterization of cell lines derived from pregnancy related diseases",
+    "Release Date": "v1:2019/11/26",
+    "Type of Study": "NGS (WGBS, RNA-seq)",
+    "Platform": "Illumina (HiSeq 1500/2500)",
+    "Participants/Materials (Ethnicity)": "complete hydatidiform mole: 3 cases (Japanese)",
+    "Data Provider": "Takahiro Arima",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0206.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000207"
+    ]
+  },
+  "hum0203.v1": {
+    "Research ID": "hum0203.v1 JGAS000206",
+    "Study Title": "Establishment of an integrated database for clinical and genomic data in cancer",
+    "Release Date": "v1:2020/06/01",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "154 patients with multiple myeloma (Japanese)",
+    "Data Provider": "Keizo Horibe",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0203.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000206"
+    ]
+  },
+  "hum0202.v1": {
+    "Research ID": "hum0202.v1 JGAS000379",
+    "Study Title": "Study of genetic background and time course of congenital hearing loss to increase efficacy of auditory, speech, and language therapy.",
+    "Release Date": "v1:2022/09/09",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2500/4000)",
+    "Participants/Materials (Ethnicity)": "3 congenital hearing loss patients and their parents (Japanese)",
+    "Data Provider": "Tatsuo Matsunaga",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0202.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000379"
+    ]
+  },
+  "hum0201.v7": {
+    "Research ID": "hum0201.v7 JGAS000199 JGAS000237* JGAS000256 JGAS000378 JGAS000350 JGAS000550",
+    "Study Title": "Collection and transfer of human tumor samples and research using genomic information Transfer of existing samples and research using genomic information Reseach of searching gene mutations in gastrointestinal chronic inflammatory diseases",
+    "Release Date": "v1:2019/12/20 v2:2020/10/06 v3:2020/11/20 v4:2021/11/19 v5:2022/06/06 v6:2022/08/05 v7:2022/12/27",
+    "Type of Study": "NGS (Exome, WGS, RNA-seq, ChIP-seq, scRNA-seq)",
+    "Platform": "Illumina (HiSeq 2500/4000/X Ten, NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "gastrointestinal inflammatory disease: 29 cases gastrointestinal inflammatory disease with neoplastic disease: 26 cases control patients who underwent colonoscopy: 16 individuals neoplastic disease: 23 + 1 + 4 + 2 + 3 cases (Japanese)",
+    "Data Provider": "Toshiro Sato",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0201.v7",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000199",
+      "JGAS000237*",
+      "JGAS000256",
+      "JGAS000378",
+      "JGAS000350",
+      "JGAS000550"
+    ]
+  },
+  "hum0200.v5": {
+    "Research ID": "hum0200.v5 JGAS000202 JGAS000265 JGAS000290 JGAS000387",
+    "Study Title": "Analysis of somatic mutations and gene expression abnormalities involved in mammary tumor phenotype",
+    "Release Date": "v1:2021/03/29 v2:2021/05/07 v3:2021/10/01 v4:2022/03/02 v5:2022/08/29 ,",
+    "Type of Study": "NGS (Exome, WGS, Target Capture, Visium Spatial Gene Expression, semibulk RNA-seq, scRNA-seq) CNV Methylation analysis Histological image",
+    "Platform": "Illumina (HiSeq 3000, NovaSeq 6000) 10x Genomics (Chromium Controller) Nanopore (PromethION)",
+    "Participants/Materials (Ethnicity)": "96 Ductal Carcinoma In Situ 4 Invasive Ductal Carcinoma (Japanese)",
+    "Data Provider": "Satoi Nagasawa (Genome Science)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0200.v5",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000202",
+      "JGAS000265",
+      "JGAS000290",
+      "JGAS000387"
+    ]
+  },
+  "hum0199.v1": {
+    "Research ID": "hum0199.v1 JGAS000198",
+    "Study Title": "Identification of therapeutic target molecules in urological malignancies by using next generation sequencer",
+    "Release Date": "v1:2020/06/29",
+    "Type of Study": "NGS (RNA-seq)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "Prostate cancer: 25 cases (Japanese)",
+    "Data Provider": "Tetsuya Fujimura",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0199.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000198"
+    ]
+  },
+  "hum0197.v17": {
+    "Research ID": "hum0197.v17 JGAS000205 JGAS000260 JGAS000316 JGAS000415 JGAS000504 JGAS000530 JGAS000531 JGAS000543 DRA014184 DRA014186 DRA014188 DRA014191 DRA014192 JGAS000593 JGAS000600",
+    "Study Title": "Elucidation of disease state by multi-layered omics analysis",
+    "Release Date": "v1:2019/11/15 v2:2020/11/27 v3:2021/03/22 v4:2021/12/10 v5:2021/12/21 v6:2022/02/08 v7:2022/05/23 v8:2022/06/03 v9:2022/06/10 v10:2022/06/16 v11:2022/07/21 v12:2022/12/01 v13:2023/02/14 v14:2023/02/16 v15:2023/03/29 v16:2023/06/06 v17:2023/06/27",
+    "Type of Study": "Metagenome SNP-chip NGS (WGS, RNA-seq, scRNA-seq)",
+    "Platform": "Illumina (HiSeq 2500/3000/X Ten, NovaSeq 6000, Infinium Asian Screening Array, HumanOmniExpressExome BeadChip, HumanOmniExpress BeadChip, HumanExome BeadChip, 　iCOGS OncoArray) Applied Biosystems (UK BiLEVE Axiom Array, UK Biobank Axiom Array) Thermo Fisher Scientific (FinnGen1 ThermoFisher Array or other genotyping arrays)",
+    "Participants/Materials (Ethnicity)": "95 + 103 + 227 + 30 + 141 + 136 + 88 + 5 Japanese individuals BBJ: 180,215 individuals UK biobank: 377,583 individuals FinnGen: 136,000 + 224,352 individuals BACC: 247,173 individuals PRACTICAL: 140,254 individuals Autoimmune pulmonary alveolar proteinosis: 198 cases Control participants: 395 Ulcerative Colitis: 35 cases Crohn's disease: 39 cases Healthy controls: 40 individuals Intracranial germ cell tumors: 133 cases Control participants: 762 COVID-19: 30 + 43 cases Healthy controls: 31 + 44 individuals Healthy subjects: 73 individuals Hunner-type interstitial cystitis: 144 cases (Japanese, British, Finnish)",
+    "Data Provider": "Yukinori Okada",
+    "Type of Data": "Unrestricted-access Controlled-access (Type I)",
+    "identifier": "hum0197.v17",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000205",
+      "JGAS000260",
+      "JGAS000316",
+      "JGAS000415",
+      "JGAS000504",
+      "JGAS000530",
+      "JGAS000531",
+      "JGAS000543",
+      "DRA014184",
+      "DRA014186",
+      "DRA014188",
+      "DRA014191",
+      "DRA014192",
+      "JGAS000593",
+      "JGAS000600"
+    ]
+  },
+  "hum0196.v1": {
+    "Research ID": "hum0196.v1",
+    "Study Title": "Identification of biomarker for suicide prevention using blood and brain samples of completed suicide",
+    "Release Date": "v1:2019/12/20",
+    "Type of Study": "SNP-chip",
+    "Platform": "Illumina (HumanOmniExpress-24 BeadChip, HumanOmniExpressExome-8 BeadChip)",
+    "Participants/Materials (Ethnicity)": "Suicide: 746 cases Non-suicide: 14,049 cases (Japanese)",
+    "Data Provider": "Akitoyo Hishimoto",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0196.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+
+    ]
+  },
+  "hum0195.v3": {
+    "Research ID": "hum0195.v3 JGAS000190 JGAS000234 JGAS000269",
+    "Study Title": "Comprehensive genetic analysis of gastrointestinal and hepatobiliary tumor",
+    "Release Date": "v1:2021/03/26 v2:2022/02/28 v3:2022/03/18",
+    "Type of Study": "NGS (WGS, Exome, RNA-seq, Target Capture)",
+    "Platform": "Illumina (HiSeq 4000, NovaSeq 6000) Thermo Fisher Scientific (Ion Proton)",
+    "Participants/Materials (Ethnicity)": "5 nodule-in-nodule hepatocellular carcinomas 20 liver cirrhosis and hepatocellular carcinomas after hepatitis C virus eradication 3 hepatitis C virus positive cirrhosis and hepatocellular carcinomas 2 hepatitis C virus negative hepatocellular carcinomas 42 + 1 patients with gastric cancer and 3 patients with gastric submucosal tumor (Japanese)",
+    "Data Provider": "Atsushi Takai",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0195.v3",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000190",
+      "JGAS000234",
+      "JGAS000269"
+    ]
+  },
+  "hum0194.v1": {
+    "Research ID": "hum0194.v1 JGAS000189",
+    "Study Title": "Molecular mechanisms of drug resistance in cancer",
+    "Release Date": "v1:2020/05/11",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Illumina (MiSeq)",
+    "Participants/Materials (Ethnicity)": "2 lung adenocarcinomas (Japanese)",
+    "Data Provider": "Ryohei Katayama",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0194.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000189"
+    ]
+  },
+  "hum0192.v1": {
+    "Research ID": "hum0192.v1 JGAS000196",
+    "Study Title": "A study to verify the usefulness of cell free DNA as a prognostic biomarker after radiation / proton therapy for oligometastasis in colorectal cancer patients",
+    "Release Date": "v1:2021/04/23",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Illumina (NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "Colon cancer: 20 cases (Japanese)",
+    "Data Provider": "Masaki Nakamura",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0192.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000196"
+    ]
+  },
+  "hum0191.v1": {
+    "Research ID": "hum0191.v1 DRA008575",
+    "Study Title": "Development of personalized cancer vaccine targeting individual somatic mutations combined with immunoregulation of tumor microenvironment",
+    "Release Date": "v1:2020/06/05",
+    "Type of Study": "NGS (RNA-seq)",
+    "Platform": "Illumina (HiSeq 1500/4000)",
+    "Participants/Materials (Ethnicity)": "Pancreatic cancer: 17 cases (Japanese)",
+    "Data Provider": "Kazuhiro Kakimi",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0191.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "DRA008575"
+    ]
+  },
+  "hum0188.v1": {
+    "Research ID": "hum0188.v1 JGAS000179",
+    "Study Title": "Exploration for molecular targets in gastric cancer cell lines",
+    "Release Date": "v1:2019/06/28",
+    "Type of Study": "NGS (Exome, RNA-seq)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "2 gastric cancer cell lines (Cell-line)",
+    "Data Provider": "Hiroyuki Mano",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0188.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000179"
+    ]
+  },
+  "hum0187.v2": {
+    "Research ID": "hum0187.v2 JGAS000194 JGAS000233",
+    "Study Title": "Genomic and genetic analysis of digestive tract cancer and elucidation of its clinicopathological significance.",
+    "Release Date": "v1:2020/05/12 v2:2021/05/31",
+    "Type of Study": "NGS (Target Capture, Exome, RNA-seq), Methylation array",
+    "Platform": "Illumina (MiSeq, HiSeq 2500, Infinium Human Methylation 450K BeadChip)",
+    "Participants/Materials (Ethnicity)": "243 + 160 hepatocellular carcinomas (Japanese)",
+    "Data Provider": "Hiroyuki Aburatani",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0187.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000194",
+      "JGAS000233"
+    ]
+  },
+  "hum0184.v2": {
+    "Research ID": "hum0184.v2 JGAS000239",
+    "Study Title": "Construction of Japanese Whole-Genome database",
+    "Release Date": "v1:2020/09/01 v2:2022/02/18",
+    "Type of Study": "NGS (WGS)",
+    "Platform": "Illumina (HiSeq 2500, NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "4,566 general residents (Japanese)",
+    "Data Provider": "Masayuki Yamamoto",
+    "Type of Data": "Controlled-access (Type II)",
+    "identifier": "hum0184.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000239"
+    ]
+  },
+  "hum0182.v5": {
+    "Research ID": "hum0182.v5 JGAS000180 DRA008482 JGAS000516",
+    "Study Title": "Comprehansive analysis of somatic mutations and genetic variations with whole genome sequencing",
+    "Release Date": "v1:2019/06/20 v2:2020/05/12 v3:2021/01/06 v4:2021/11/12 v5:2022/05/27",
+    "Type of Study": "NGS (WGS, RNA-seq)",
+    "Platform": "Nanopore (MinION) Illumina (HiSeq 2000, Genome Analyzer IIx)",
+    "Participants/Materials (Ethnicity)": "liver cancer (normal cell): 174+42 case liver cancer (tumor tissue): 11+42 cases HapMap: 1 sample (Japanese) Breast cancer: 1 sample (Cell-line)",
+    "Data Provider": "Akihiro Fujimoto",
+    "Type of Data": "Unrestricted-access Controlled-access (Type I)",
+    "identifier": "hum0182.v5",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000180",
+      "DRA008482",
+      "JGAS000516"
+    ]
+  },
+  "hum0181.v1": {
+    "Research ID": "hum0181.v1",
+    "Study Title": "Aging of steroid production in the adrenal bland.",
+    "Release Date": "v1:2019/09/25",
+    "Type of Study": "Immunohistochemistry",
+    "Platform": "Dako (Autostainer Link 48)",
+    "Participants/Materials (Ethnicity)": "85 anatomical cases who were more than 50 years old (Japanese)",
+    "Data Provider": "Koshiro Nishimoto",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0181.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+
+    ]
+  },
+  "hum0180.v1": {
+    "Research ID": "hum0180.v1 JGAS000170",
+    "Study Title": "Genetic study and evaluation of small molecule compounds for congenital diseases and metabolic disorders caused by an aberrant RNA splicing",
+    "Release Date": "v1:2021/03/12",
+    "Type of Study": "NGS (RNA-seq)",
+    "Platform": "Thermo Fisher Scientific (Ion Proton)",
+    "Participants/Materials (Ethnicity)": "Familial Dysautonomia: 2 cases",
+    "Data Provider": "Masahiko Ajiro",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0180.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000170"
+    ]
+  },
+  "hum0179.v1": {
+    "Research ID": "hum0179.v1 JGAS000186 DRA009794",
+    "Study Title": "Shotgun metagenome analysis of oral microbiome in MRONJ and healthy individuals",
+    "Release Date": "v1:2020/04/03",
+    "Type of Study": "Metagenome",
+    "Platform": "Nanopore (PromethION) Illumina (HiSeq)",
+    "Participants/Materials (Ethnicity)": "4 healthy individuals (Japanese)",
+    "Data Provider": "Koji Yahara (Genome Science)",
+    "Type of Data": "Unrestricted-access Controlled-access (Type I)",
+    "identifier": "hum0179.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000186",
+      "DRA009794"
+    ]
+  },
+  "hum0177.v1": {
+    "Research ID": "hum0177.v1 JGAS000197",
+    "Study Title": "Genetic analysis assciated with malignance of brain tumor",
+    "Release Date": "v1:2020/04/27",
+    "Type of Study": "NGS (WGBS, RNA-seq, ChIP-seq)",
+    "Platform": "Illumina (HiSeq X Ten, NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "14 malignant gliomas (Japanese)",
+    "Data Provider": "Takashi Ito",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0177.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000197"
+    ]
+  },
+  "hum0176.v1": {
+    "Research ID": "hum0176.v1 JGAS000172",
+    "Study Title": "Comprehensive sequencing analyses of uterine and ovarian carcinosarcoma",
+    "Release Date": "v1:2019/10/02",
+    "Type of Study": "NGS (Exome, Target Capture)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "92 uterine carcinosarcomas 17 ovarian carcinosarcomas (Japanese)",
+    "Data Provider": "Seiichi Mori",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0176.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000172"
+    ]
+  },
+  "hum0175.v1": {
+    "Research ID": "hum0175.v1 JGAS000174",
+    "Study Title": "Development of actionable molecular targets and/or biomarkers for prognostication and patient stratification in gynecological cancer based on whole-exome sequencing and epigenomic analysis",
+    "Release Date": "v1:2019/10/02",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "69 endometrial carcinomas (Japanese)",
+    "Data Provider": "Nobuhiro Takeshima",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0175.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000174"
+    ]
+  },
+  "hum0174.v5": {
+    "Research ID": "hum0174.v5 JGAS000173 JGAS000580 JGAS000286 JGAS000505",
+    "Study Title": "Building a Database of Genomic Structural Variants in Japanese population",
+    "Release Date": "v1:2020/10/06 v2:2020/11/27 v3:2023/06/29 v4:2023/07/06 v5:2023/07/10",
+    "Type of Study": "NGS (WGS)",
+    "Platform": "PacBio (Sequel, Sequel II) 10x Genomics (Chromium Controller) Nanopore (PromethION)",
+    "Participants/Materials (Ethnicity)": "Purified DNA from Japanese-origin B cell lines: 10 + 11 + 177 + 141 samples",
+    "Data Provider": "Shinichi Morishita",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0174.v5",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000173",
+      "JGAS000580",
+      "JGAS000286",
+      "JGAS000505"
+    ]
+  },
+  "hum0173.v1": {
+    "Research ID": "hum0173.v1 JGAS000171",
+    "Study Title": "A Study on the Health and Development of Children Beginning in the Fetal Period",
+    "Release Date": "v1:2019/04/23",
+    "Type of Study": "NGS  (RRBS)",
+    "Platform": "Illumina (NextSeq)",
+    "Participants/Materials (Ethnicity)": "human umbilical cords: 30 samples (Japanese)",
+    "Data Provider": "Chisato Mori",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0173.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000171"
+    ]
+  },
+  "hum0169.v2": {
+    "Research ID": "hum0169.v2 JGAS000178",
+    "Study Title": "Molecular analysis to identify novel biomarker and therapeutic target for cerebrospinal tumor and preclinical investigation using patient derived orthotopic xenograft models.",
+    "Release Date": "v1:2019/06/01 v2:2020/07/17",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "9 PCNSL patinets (Japanese)",
+    "Data Provider": "Tetsuya Yamamoto",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0169.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000178"
+    ]
+  },
+  "hum0168.v1": {
+    "Research ID": "hum0168.v1 JGAS000169",
+    "Study Title": "Comprehensive genomic analyses of cancers",
+    "Release Date": "v1:2019/11/08",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "51 adenomyosis patients (Japanese)",
+    "Data Provider": "Masahito Kawazu",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0168.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000169"
+    ]
+  },
+  "hum0167.v1": {
+    "Research ID": "hum0167.v1",
+    "Study Title": "Study to clarify the pathophysiology of gout / hyperuricemia and uric acid related diseases",
+    "Release Date": "v1:2019/07/23",
+    "Type of Study": "SNP-chip",
+    "Platform": "Illumina (HumanOmniExpressExome-8, 660W-Quad, Omni2.5-8, OmniExpress-12, OmniExpress-24, HumanOmniExpressExome, HumanOmniExpress, HumanExome BeadChip)",
+    "Participants/Materials (Ethnicity)": "121,745 participants of 3 Japanese cohorts (J-MICC study, KING study, BBJ) (Japanese)",
+    "Data Provider": "Hirotaka Matsuo",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0167.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+
+    ]
+  },
+  "hum0166.v1": {
+    "Research ID": "hum0166.v1",
+    "Study Title": "Multicenter Evaluation of NUDT15-R139C genotyping efficiency to DEtect thiopurine-induced hair Loss and leukopenia (MENDEL study)",
+    "Release Date": "v1:2019/07/30",
+    "Type of Study": "SNP-chip",
+    "Platform": "Affymetrix (Japonica Array v1)",
+    "Participants/Materials (Ethnicity)": "1221 patients of Inflammatory bowel disease (Japanese)",
+    "Data Provider": "Yoichi Kakuta",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0166.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+
+    ]
+  },
+  "hum0165.v1": {
+    "Research ID": "hum0165.v1 JGAS000162",
+    "Study Title": "Genetic analysis of familial myelodysplastic syndromes",
+    "Release Date": "v1:2019/05/07",
+    "Type of Study": "NGS  (Exome)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "2 patients of familial myelodysplastic syndromes (Japanese)",
+    "Data Provider": "Junji Koya",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0165.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000162"
+    ]
+  },
+  "hum0164.v1": {
+    "Research ID": "hum0164.v1 JGAS000160",
+    "Study Title": "Tohoku Medical Megabank Organization cohort study",
+    "Release Date": "v1:2018/12/14",
+    "Type of Study": "SNP-chip",
+    "Platform": "Illumina (Infinium OmniExpressExome-8)",
+    "Participants/Materials (Ethnicity)": "9,187 participants (Japanese)",
+    "Data Provider": "Masao Nagasaki",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0164.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000160"
+    ]
+  },
+  "hum0163.v3": {
+    "Research ID": "hum0163.v3",
+    "Study Title": "Pharmacogenomics research for therapeutics in psychiatry, neurology and oncology",
+    "Release Date": "v1:2018/12/14 v2:2021/02/09 v3:2023/04/21",
+    "Type of Study": "NGS (Target Capture) SNP-chip",
+    "Platform": "Illumina (MiSeq, Infinium OmniExpressExome BeadChip)",
+    "Participants/Materials (Ethnicity)": "990 patients with psychiatric/neurological disorders and cancers 90 bullous pemphigoid cases 737 healthy controls (Japanese)",
+    "Data Provider": "Taisei Mushiroda",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0163.v3",
+    "type": "humandbs-research",
+    "dbXrefs": [
+
+    ]
+  },
+  "hum0161.v2": {
+    "Research ID": "hum0161.v2 JGAS000156*",
+    "Study Title": "Genome sequencing analysis for hepatoblastoma",
+    "Release Date": "v1:2021/06/04 v2:2022/12/27",
+    "Type of Study": "NGS (WGS)",
+    "Platform": "Illumina (Hiseq 2500)",
+    "Participants/Materials (Ethnicity)": "33 hepatoblastomas (Japanese)",
+    "Data Provider": "Hidewaki Nakagawa",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0161.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000156*"
+    ]
+  },
+  "hum0160.v2": {
+    "Research ID": "hum0160.v2 JGAS000155",
+    "Study Title": "Genome sequencing analysis for esophageal squamous cell carcinoma",
+    "Release Date": "v1:2019/05/28 v2:2021/07/13",
+    "Type of Study": "NGS (WGS)",
+    "Platform": "Illumina (HiSeq 2000/2500/X Five)",
+    "Participants/Materials (Ethnicity)": "20 esophageal squamous cell carcinomas (Japanese)",
+    "Data Provider": "Hidewaki Nakagawa",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0160.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000155"
+    ]
+  },
+  "hum0159.v2": {
+    "Research ID": "hum0159.v2 JGAS000157*",
+    "Study Title": "Genome sequencing analysis for colorectal cancer",
+    "Release Date": "v1:2021/06/01 v2:2022/12/27",
+    "Type of Study": "NGS (WGS)",
+    "Platform": "Illumina (Hiseq 2000)",
+    "Participants/Materials (Ethnicity)": "10 colorectal cancers (Japanese)",
+    "Data Provider": "Hidewaki Nakagawa",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0159.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000157*"
+    ]
+  },
+  "hum0158.v3": {
+    "Research ID": "hum0158.v3 JGAS000151",
+    "Study Title": "Genome sequencing analysis for liver cancer",
+    "Release Date": "v1:2018/10/22 v2:2019/06/21 v3:2021/07/13",
+    "Type of Study": "NGS (WGS, RNA-seq)",
+    "Platform": "Illumina (HiSeq 2000, Genome Analyzer IIx, NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "263 liver cancers (Japanese)",
+    "Data Provider": "Hidewaki Nakagawa",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0158.v3",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000151"
+    ]
+  },
+  "hum0157.v1": {
+    "Research ID": "hum0157.v1 JGAS000164",
+    "Study Title": "Cancer clinical sequence and accompanying research for comprehensive genomic and epigenomic analyses",
+    "Release Date": "v1:2019/08/19",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Illumina (NextSeq)",
+    "Participants/Materials (Ethnicity)": "183 cancer patients (Japanese)",
+    "Data Provider": "Kohei Miyazono",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0157.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000164"
+    ]
+  },
+  "hum0156.v1": {
+    "Research ID": "hum0156.v1 JGAS000227",
+    "Study Title": "Integrative genetic analysis using next generation sequencer reveals mechanisms of resistance to chemoradiotherapy for esophageal cancer",
+    "Release Date": "v1:2021/07/30",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "33 esophageal cancer patients (Japanese)",
+    "Data Provider": "Koshi Mimori",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0156.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000227"
+    ]
+  },
+  "hum0153.v1": {
+    "Research ID": "hum0153.v1 JGAS000177",
+    "Study Title": "Multiomics analysis of rare cancers to identify genetic alterations related with pathogenesis and prognosis",
+    "Release Date": "v1:2019/09/20",
+    "Type of Study": "NGS (Exome, RNA-seq, Target Capture)",
+    "Platform": "Illumina (HiSeq 2500, MiSeq)",
+    "Participants/Materials (Ethnicity)": "28 Dedifferentiated liposarcoma patients 36 Tendon sheath giant cell tumor patient (Japanese)",
+    "Data Provider": "Koichi Matsuda",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0153.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000177"
+    ]
+  },
+  "hum0152.v2": {
+    "Research ID": "hum0152.v2 JGAS000182 JGAS000529",
+    "Study Title": "Multi‐institutional study on molcular pathogenesis of bone and soft tissue tumors by genome and proteome analyses and its clinical application",
+    "Release Date": "v1:2019/09/20 v2:2022/11/15",
+    "Type of Study": "NGS (WGS, Exome, RNA-seq)",
+    "Platform": "Illumina (HiSeq 2500, NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "Dedifferentiated liposarcoma: 37 cases lipoblastoma-like tumor of the vulva: 1 case (Japanese)",
+    "Data Provider": "Hitoshi Ichikawa",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0152.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000182",
+      "JGAS000529"
+    ]
+  },
+  "hum0148.v1": {
+    "Research ID": "hum0148.v1 JGAS000149",
+    "Study Title": "Analysis of abnomal character and expression of genes in tissues of urologic carcinomas.",
+    "Release Date": "v1:2019/06/20",
+    "Type of Study": "NGS (RNA-seq)",
+    "Platform": "Illumina (Genome Analyzer IIx)",
+    "Participants/Materials (Ethnicity)": "67 renal cell carcinomas (Japanese)",
+    "Data Provider": "Takeshi Yuasa",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0148.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000149"
+    ]
+  },
+  "hum0147.v3": {
+    "Research ID": "hum0147.v3 JGAS000145 JGAS000312 JGAS000454",
+    "Study Title": "Immune regulation by cotrolling regulatory T cell-specific epigenome",
+    "Release Date": "v1:2020/05/25 v2:2022/02/18 v3:2023/05/08",
+    "Type of Study": "NGS (RNA-seq, ChIP-seq, PBAT-seq, ATAC-seq, scRNA-seq)",
+    "Platform": "Thermo Fisher Scientific (Ion S5) Illumina (HiSeq 2500/3000/4000, NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "4 + 1 healty donors 7 + 3 cancer patients (Japanese)",
+    "Data Provider": "Shimon Sakaguchi",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0147.v3",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000145",
+      "JGAS000312",
+      "JGAS000454"
+    ]
+  },
+  "hum0146.v1": {
+    "Research ID": "hum0146.v1 DRA007187",
+    "Study Title": "Diagnosis of imprinting disorders and safety evaluation of assisted reproduction technologies (ART)",
+    "Release Date": "v1:2019/02/19",
+    "Type of Study": "NGS (RRBS)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "5 SRS patients born after ART 5 spontaneously conceived SRS patients 10 spontaneously conceived children (Japanese)",
+    "Data Provider": "Takahiro Arima",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0146.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "DRA007187"
+    ]
+  },
+  "hum0145.v1": {
+    "Research ID": "hum0145.v1 JGAS000222",
+    "Study Title": "The genetic analysis of circulating tumor DNA in blood of the digestive cancer patients to investigate the prognostic factors of metastasis and reccurence.",
+    "Release Date": "v1:2020/04/03",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "10 colorectal cancers (Japanese)",
+    "Data Provider": "Koshi Mimori",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0145.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000222"
+    ]
+  },
+  "hum0144.v1": {
+    "Research ID": "hum0144.v1 JGAS000147",
+    "Study Title": "Comprehensive analysis of genetic alterations in hematological malignancies (pediatric B-cell precursor acute lymphoblastic leukemia in Down syndrome)",
+    "Release Date": "v1:2020/01/10",
+    "Type of Study": "NGS (RNA-seq),  Methylation array,  SNP array",
+    "Platform": "Illumina (HiSeq 2000/2500, Infinium MethylationEPIC BeadChip, Infinium HumanMethylation450 BeadChip) Affymetrix (GeneChip Human Mapping 250K Nsp, CytoScan HD)",
+    "Participants/Materials (Ethnicity)": "pediatric B-cell precursor acute lymphoblastic leukemia in Down syndrome: 43 cases (Japanese)",
+    "Data Provider": "Junko Takita",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0144.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000147"
+    ]
+  },
+  "hum0141.v1": {
+    "Research ID": "hum0141.v1 JGAS000135",
+    "Study Title": "Immune regulation by cotrolling regulatory T cell-specific epigenome",
+    "Release Date": "v1:2019/05/09",
+    "Type of Study": "NGS (RNA-seq)",
+    "Platform": "Thermo Fisher Scientific (Ion S5)",
+    "Participants/Materials (Ethnicity)": "Head and neck cancer: 4 cases (Japanese)",
+    "Data Provider": "Shimon Sakaguchi",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0141.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000135"
+    ]
+  },
+  "hum0140.v1": {
+    "Research ID": "hum0140.v1 JGAS000158",
+    "Study Title": "Prediction of response to preoperative chemoradiotherapy in rectal cancer based on whole-exome sequencing and transcriptomic analysis",
+    "Release Date": "v1:2019/11/19",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "74 rectal cancer treated with preoperative chemoraidotherapy (Japanese)",
+    "Data Provider": "Takashi Akiyoshi",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0140.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000158"
+    ]
+  },
+  "hum0139.v1": {
+    "Research ID": "hum0139.v1 JGAS000136",
+    "Study Title": "Research for drug discovery and elucidation of pathophysiology using disease-specific iPS cells",
+    "Release Date": "v1:2018/07/10",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 1500)",
+    "Participants/Materials (Ethnicity)": "1 RALD patient (Japanese)",
+    "Data Provider": "Makoto Otsu",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0139.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000136"
+    ]
+  },
+  "hum0138.v2": {
+    "Research ID": "hum0138.v2 JGAS000134",
+    "Study Title": "Clonal structure and oncogenic potential of liver cirrhosis tissues",
+    "Release Date": "v1:2020/07/31 v2:2021/03/26",
+    "Type of Study": "NGS (Exome, RNA-seq)",
+    "Platform": "Illumina (HiSeq 2500/4000)",
+    "Participants/Materials (Ethnicity)": "Liver cirrhosis: 10 cases Hepatocellular carcinoma: 4 cases 7 healthy donors (Japanese)",
+    "Data Provider": "Atsushi Takai",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0138.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000134"
+    ]
+  },
+  "hum0137.v1": {
+    "Research ID": "hum0137.v1 JGAS000144",
+    "Study Title": "a multicenter study of susceptibility genes to type 1 diabetes",
+    "Release Date": "v1:2018/12/21",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Thermo Fisher Scientific (Ion Proton)",
+    "Participants/Materials (Ethnicity)": "32 type 1 diabetes patients (Japanese)",
+    "Data Provider": "Hiroshi Ikegami",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0137.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000144"
+    ]
+  },
+  "hum0136.v3": {
+    "Research ID": "hum0136.v3 JGAS000341",
+    "Study Title": "Construction of integrated clinical genome database regarding hepatitis B related diseases",
+    "Release Date": "v1:2018/05/22 v2:2021/03/05 v3:2021/10/01",
+    "Type of Study": "SNP-chip",
+    "Platform": "Affymetrix (Axiom ASI)",
+    "Participants/Materials (Ethnicity)": "1,193 individuals vaccinated with a HB vaccine (Bimmugen) 555 individuals vaccinated with a HB vaccine (Heptavax) (Japanese)",
+    "Data Provider": "Masashi Mizokami",
+    "Type of Data": "Unrestricted-access Controlled-access (Type I)",
+    "identifier": "hum0136.v3",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000341"
+    ]
+  },
+  "hum0134.v1": {
+    "Research ID": "hum0134.v1 JGAS000087",
+    "Study Title": "Identification of genetic mutations characteristic for recurrence and metastasis of B cell lymphoma.",
+    "Release Date": "v1:2018/04/06",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "60 B cell lymphomas (Japanese)",
+    "Data Provider": "Toshiharu Yamaguchi (P-DIRECT)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0134.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000087"
+    ]
+  },
+  "hum0133.v1": {
+    "Research ID": "hum0133.v1 JGAS000086",
+    "Study Title": "Identification of genetic mutations characteristic for recurrence and metastasis of gastric cancer.",
+    "Release Date": "v1:2018/04/06",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "75 gastric cancers (Japanese)",
+    "Data Provider": "Toshiharu Yamaguchi (P-DIRECT)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0133.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000086"
+    ]
+  },
+  "hum0132.v1": {
+    "Research ID": "hum0132.v1 JGAS000137",
+    "Study Title": "Identification of genetic alterations in Vietnamese individuals with elevated blood dioxin level",
+    "Release Date": "v1:2018/09/07",
+    "Type of Study": "NGS (WGS)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "9 trios of the father exposed to dioxin and his wife and child with mental retardation (total 27 individuals) (Vietnamese)",
+    "Data Provider": "Hidewaki Nakagawa",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0132.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000137"
+    ]
+  },
+  "hum0131.v1": {
+    "Research ID": "hum0131.v1 JGAS000132",
+    "Study Title": "The epigenetics of neurodevelopmental disorders",
+    "Release Date": "v1:2018/11/20",
+    "Type of Study": "NGS (RNA-seq)",
+    "Platform": "Thermo Fisher Scientific (Ion Proton)",
+    "Participants/Materials (Ethnicity)": "6 Williams syndromes 8 healthy contorols (Japanese)",
+    "Data Provider": "Ryo Kimura",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0131.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000132"
+    ]
+  },
+  "hum0130.v2": {
+    "Research ID": "hum0130.v2 JGAS000150 JGAS000289",
+    "Study Title": "Comprehensive genetic analyses of bone marrow cells in POEMS syndrome Analyses of molecular mechanisms of hematological malignancies and bone marrow niche",
+    "Release Date": "v1:2019/01/18 v2:2022/09/27",
+    "Type of Study": "NGS (Exome, Target Capture, RNA-seq, scRNA-seq)",
+    "Platform": "Illumina (HiSeq 1500/2000/2500/3000, MiSeq)",
+    "Participants/Materials (Ethnicity)": "20 + 14 POEMS syndromes 4 + 5 MMs 5 + 2 MGUSs 4 lymphomas without BM invasion (Japanese)",
+    "Data Provider": "Emiko Sakaida",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0130.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000150",
+      "JGAS000289"
+    ]
+  },
+  "hum0129.v1": {
+    "Research ID": "hum0129.v1 JGAS000131",
+    "Study Title": "Research for analyzing mechanistic insight into disease progression of neural disease based on iPS cell technology",
+    "Release Date": "v1:2018/04/06",
+    "Type of Study": "NGS (ChIP-seq)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "2 CHARGE syndrome patients (Japanese)",
+    "Data Provider": "Hideyuki Okano",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0129.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000131"
+    ]
+  },
+  "hum0128.v1": {
+    "Research ID": "hum0128.v1 JGAS000153",
+    "Study Title": "A study on comprehensive genome and proteome analyses of the chronic eosinophillic inflammatory diseases.",
+    "Release Date": "v1:2018/10/29",
+    "Type of Study": "NGS (RNA-seq)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "6 chronic rhinosinusitis with nasal polyps (Japanese)",
+    "Data Provider": "Shigeharu Fujieda",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0128.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000153"
+    ]
+  },
+  "hum0127.v2": {
+    "Research ID": "hum0127.v2 JGAS000130 JGAS000274",
+    "Study Title": "Implementation of individualized medicine for cancer patients by multiomics-based analyses—the Project HOPE (High-tech Omics-based Patients Evaluation) for Cancer Therapy—",
+    "Release Date": "v1:2020/04/14 v2:2021/03/08",
+    "Type of Study": "NGS (Exome, DNA Amplicon-seq, RNA Amplicon-seq) Microarray",
+    "Platform": "Thermo Fisher Scientific (Ion Proton) Agilent Technologies (SurePrint G3 Human Gene Expression 8 × 60 K v2 Microarray, DNA Microarray Scanner)",
+    "Participants/Materials (Ethnicity)": "91 cancer patients with hypermutator tumors harborig POLE mutations 5143 cancer patients (5433 samples) (Japanese)",
+    "Data Provider": "Ken Yamaguchi",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0127.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000130",
+      "JGAS000274"
+    ]
+  },
+  "hum0126.v2": {
+    "Research ID": "hum0126.v2",
+    "Study Title": "Identification of the disease and drug susceptibility genes for the Childhood Idiopathic Nephrotic Syndrome",
+    "Release Date": "v1:2018/04/27 v2:2020/09/01",
+    "Type of Study": "SNP-chip",
+    "Platform": "Affymetrix (Japonica Array v1/v2)",
+    "Participants/Materials (Ethnicity)": "224 + 3,206 Childhood Idiopathic Nephrotic Syndrome patients 419 + 987 healthy controls (Japanese)",
+    "Data Provider": "Kazumoto Iijima",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0126.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+
+    ]
+  },
+  "hum0125.v1": {
+    "Research ID": "hum0125.v1 JGAS000127",
+    "Study Title": "Immune regulation by cotrolling regulatory T cell-specific epigenome",
+    "Release Date": "v1:2018/11/05",
+    "Type of Study": "NGS (RNA-seq)",
+    "Platform": "Thermo Fisher Scientific (Ion S5)",
+    "Participants/Materials (Ethnicity)": "3 Crohn's diseases 4 Colorectal cancers (normal cells) (Japanese)",
+    "Data Provider": "Shimon Sakaguchi",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0125.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000127"
+    ]
+  },
+  "hum0124.v1": {
+    "Research ID": "hum0124.v1 JGAS000129",
+    "Study Title": "Study for exome sequencing in familial epidermal growth factor receptor-mutant lung cancer",
+    "Release Date": "v1:2018/04/06",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "3 EGFR-mutant lung cancers (Japanese)",
+    "Data Provider": "Toshiaki Kikuchi (P-DIRECT)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0124.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000129"
+    ]
+  },
+  "hum0122.v1": {
+    "Research ID": "hum0122.v1 DRA006622 DRA007336 DRA008459 E-GEAD-311",
+    "Study Title": "Mutation analysis of iPS cells derived from commercially-avaialble human primary cells",
+    "Release Date": "v1:2020/01/14",
+    "Type of Study": "NGS (WGS) SNP-chip",
+    "Platform": "Illumina (HiSeq X Ten, Infinium Omni2.5-8 v1.4 BeadChip)",
+    "Participants/Materials (Ethnicity)": "human iPS cells and their parental cells: total 27 samples (Cell-line)",
+    "Data Provider": "Ryoko Araki",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0122.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "DRA006622",
+      "DRA007336",
+      "DRA008459",
+      "E-GEAD-311"
+    ]
+  },
+  "hum0120.v4": {
+    "Research ID": "hum0120.v4 JGAS000221 DRA011183 DRA011184 DRA011185 E-GEAD-396 DRA010902 JGAS000549",
+    "Study Title": "The genetic analysis of circulating tumor DNA in blood of the digestive cancer patients to investigate the prognostic factors of metastasis and reccurence.",
+    "Release Date": "v1:2020/04/03 v2:2020/10/30 v3:2021/12/06 v4:2022/07/29",
+    "Type of Study": "NGS (Exome, RNA-seq, Target Capture, WGBS) Methylation array",
+    "Platform": "Illumina (HiSeq 2500, iScan, HiSeq X Ten)",
+    "Participants/Materials (Ethnicity)": "10 + 25 + 10 colorectal cancers 16 gastric cancers 16 breast cancers (Japanese)",
+    "Data Provider": "Koshi Mimori",
+    "Type of Data": "Unrestricted-access Controlled-access (Type I)",
+    "identifier": "hum0120.v4",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000221",
+      "DRA011183",
+      "DRA011184",
+      "DRA011185",
+      "E-GEAD-396",
+      "DRA010902",
+      "JGAS000549"
+    ]
+  },
+  "hum0119.v1": {
+    "Research ID": "hum0119.v1 JGAS000126",
+    "Study Title": "Analysis for mechanism of onset and progress for NASH",
+    "Release Date": "v1:2019/01/31",
+    "Type of Study": "SNP-chip",
+    "Platform": "Illumina (Human610-Quad BeadChip, HumanCoreExome BeadChip, HumanOmni2.5-Quad BeadChip)",
+    "Participants/Materials (Ethnicity)": "902 NAFLDs 7672 healty controls (Japanese)",
+    "Data Provider": "Fumihiko Matsuda",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0119.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000126"
+    ]
+  },
+  "hum0118.v1": {
+    "Research ID": "hum0118.v1 JGAS000124",
+    "Study Title": "Genome-wide analysis for biomarker exploration (endometrial cancer)",
+    "Release Date": "v1:2017/12/11",
+    "Type of Study": "NGS (CAGE-seq) Sanger-seq",
+    "Platform": "Illumina (HiSeq 2500) Thermo Fisher Scientific (ABI) 3500 Genetic Analyzer",
+    "Participants/Materials (Ethnicity)": "17 endometrial cancer patients (Japanese)",
+    "Data Provider": "Yoshihide Hayashizaki",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0118.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000124"
+    ]
+  },
+  "hum0117.v1": {
+    "Research ID": "hum0117.v1 JGAS000125",
+    "Study Title": "Epigenetics analysis of neurodegenerative diseases",
+    "Release Date": "v1:2017/12/11",
+    "Type of Study": "Methylation array",
+    "Platform": "Illumina (Human Methylation 450K BeadChip)",
+    "Participants/Materials (Ethnicity)": "30 Alzheimer's disease patients 30 healty controls (Japanese)",
+    "Data Provider": "Atsushi Iwata",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0117.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000125"
+    ]
+  },
+  "hum0116.v1": {
+    "Research ID": "hum0116.v1 JGAS000122",
+    "Study Title": "Development of hunanized mice for human immunity research",
+    "Release Date": "v1:2020/11/20",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Illumina (HiSeq 1500/2500)",
+    "Participants/Materials (Ethnicity)": "118 AMLs (Japanese)",
+    "Data Provider": "Fumihiko Ishikawa",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0116.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000122"
+    ]
+  },
+  "hum0115.v1": {
+    "Research ID": "hum0115.v1 JGAS000121 DRA006296",
+    "Study Title": "Controlling cell differentiation with precision through understanding the structure and dynamics of gene regulatory networks",
+    "Release Date": "v1:2020/05/15",
+    "Type of Study": "NGS (RNA-seq) Microarray",
+    "Platform": "Illumina (HiSeq 2000/2500) Agilent Technologies (SurePrint G3 Human GE v2 8x60K Microarray, SureScan G4900DA)",
+    "Participants/Materials (Ethnicity)": "TF-hESCs derived from SEES3 (Cell-line)",
+    "Data Provider": "Minoru S.H. Ko",
+    "Type of Data": "Unrestricted-access Controlled-access (Type I)",
+    "identifier": "hum0115.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000121",
+      "DRA006296"
+    ]
+  },
+  "hum0114.v3": {
+    "Research ID": "hum0114.v3 DRA007411 JGAS000314",
+    "Study Title": "Research on statistical genetics using B cell lines of Japanese ancestry",
+    "Release Date": "v1:2017/12/18 v2:2019/04/12 v3:2021/08/10",
+    "Type of Study": "SNP-chip NGS (Target Capture)",
+    "Platform": "Illumina (HumanCoreExome BeadChip, MiSeq, HiSeq X Ten, NovaSeq)",
+    "Participants/Materials (Ethnicity)": "282 psoriasis patients 426 controls 1,173 samples (Japanese)",
+    "Data Provider": "Yukinori Okada",
+    "Type of Data": "Unrestricted-access Controlled-access (Type I)",
+    "identifier": "hum0114.v3",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "DRA007411",
+      "JGAS000314"
+    ]
+  },
+  "hum0113.v3": {
+    "Research ID": "hum0113.v3 JGAS000119 JGAS000142 JGAS000318",
+    "Study Title": "Development of metabolite biomarkers of Parkinson’s disease and identification of drug seeds from chemical screening based on the biomarkers",
+    "Release Date": "v1:2020/04/24 v2:2021/07/30 v3:2022/07/29",
+    "Type of Study": "NGS (CAGE-seq)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "39 PD patients, 20 non-PD (healthy) contorols iPS derived neurons: 3 PD samples and 3 controls (Japanese)",
+    "Data Provider": "Piero Carninci",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0113.v3",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000119",
+      "JGAS000142",
+      "JGAS000318"
+    ]
+  },
+  "hum0112.v1": {
+    "Research ID": "hum0112.v1 JGAS000112 (JGA000122)",
+    "Study Title": "Basic research for the establishment and characterization of human trophoblast stem cells",
+    "Release Date": "v1:2017/12/14",
+    "Type of Study": "NGS (WGBS ChIP-seq RNA-seq miRNA-seq)",
+    "Platform": "Illumina (HiSeq 1500/2500)",
+    "Participants/Materials (Ethnicity)": "2 trophoblast stem cells (Japanese)",
+    "Data Provider": "Takahiro Arima",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0112.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000112",
+      "(JGA000122)"
+    ]
+  },
+  "hum0111.v3": {
+    "Research ID": "hum0111.v3 JGAS000103 JGAS000141 JGAS000242",
+    "Study Title": "Analysis of gastric cancer genome and its clinicopathological significance",
+    "Release Date": "v1:2017/07/31 v2:2019/05/31 v3:2021/02/19",
+    "Type of Study": "NGS (RNA-seq, Amplicon-seq)",
+    "Platform": "Illumina (HiSeq 2000, MiSeq)",
+    "Participants/Materials (Ethnicity)": "30 diffuse-type gastric carcinomas 60 + 15 gastric carcinomas (Japanese)",
+    "Data Provider": "Shumpei Ishikawa",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0111.v3",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000103",
+      "JGAS000141",
+      "JGAS000242"
+    ]
+  },
+  "hum0108.v1": {
+    "Research ID": "hum0108.v1  JGAS000111",
+    "Study Title": "Search for new susceptibility genetic factors associated with psychiatric disorders",
+    "Release Date": "v1:2017/06/26",
+    "Type of Study": "Methylation array",
+    "Platform": "Illumina (Infinium HumanMethylation450)",
+    "Participants/Materials (Ethnicity)": "48 panic disorder patients 48 healthy controls (Japanese)",
+    "Data Provider": "Katsushi Tokunaga",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0108.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000111"
+    ]
+  },
+  "hum0107.v2": {
+    "Research ID": "hum0107.v2 JGAS000099 JGAS000218",
+    "Study Title": "Establish induced pluripotent stem (iPS) cells from patients with Gorlin syndrome and elucidate the pathology",
+    "Release Date": "v1:2017/10/02 v2:2020/06/01",
+    "Type of Study": "NGS (Exome, RNA-seq)",
+    "Platform": "Illumina (HiSeq 2500/4000)",
+    "Participants/Materials (Ethnicity)": "4 patients with Gorlin syndrome (Japanese)",
+    "Data Provider": "Toshifumi Azuma",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0107.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000099",
+      "JGAS000218"
+    ]
+  },
+  "hum0106.v1": {
+    "Research ID": "hum0106.v1  JGAS000139",
+    "Study Title": "Development of the prevention and therapy of CRC using patient derived culture tissues.",
+    "Release Date": "v1:2022/09/05",
+    "Type of Study": "NGS (scRNA-seq)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "3 patients with colorectal cancer (patient derived culture tissues) (Japanese)",
+    "Data Provider": "Ryoji Yao (Genome Science)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0106.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000139"
+    ]
+  },
+  "hum0103.v4": {
+    "Research ID": "hum0103.v4 JGAS000109 JGAS000389",
+    "Study Title": "Genome sequencing analysis for biliary tract cancer",
+    "Release Date": "v1:2018/02/27 v2:2019/06/21 v3:2021/07/13 v4:2022/01/18",
+    "Type of Study": "NGS (WGS, Exome, RNA-seq)",
+    "Platform": "Illumina (HiSeq 2000/2500, NovaSeq 6000)",
+    "Participants/Materials (Ethnicity)": "98 + 121 biliary tract cancers 4 normal gallbladders (Japanese)",
+    "Data Provider": "Hidewaki Nakagawa",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0103.v4",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000109",
+      "JGAS000389"
+    ]
+  },
+  "hum0101.v1": {
+    "Research ID": "hum0101.v1 JGAS000098",
+    "Study Title": "Identification of gene mutations in primary immunodeficiency characterized by EBV-associated B-cell lymphoma",
+    "Release Date": "v1:2018/05/11",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Illumina (MiSeq)",
+    "Participants/Materials (Ethnicity)": "2 patients with primary immunodeficiency (Japanese)",
+    "Data Provider": "Yasumasa Iwatani",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0101.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000098"
+    ]
+  },
+  "hum0099.v1": {
+    "Research ID": "hum0099.v1  JGAS000085",
+    "Study Title": "Expression quantitative trait loci analysis using human immune cells",
+    "Release Date": "v1:2017/04/24",
+    "Type of Study": "NGS (RNA-seq) SNP-chip",
+    "Platform": "Illumina (HiSeq 2500, Infinium OmniExpressExome BeadChips)",
+    "Participants/Materials (Ethnicity)": "105 healthy volunteers (Japanese)",
+    "Data Provider": "Kazuhiko Yamamoto",
+    "Type of Data": "Unrestricted-access Controlled-access (Type I)",
+    "identifier": "hum0099.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000085"
+    ]
+  },
+  "hum0097.v1": {
+    "Research ID": "hum0097.v1 JGAS000094",
+    "Study Title": "Cytogenetic analysis of hematopoietic cells in bone marrow failure syndrome",
+    "Release Date": "v1:2018/05/25",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "5 patients with aplastic anemia with uniparental disomy in 6p (Japanese)",
+    "Data Provider": "Shinji Nakao (Genome Science)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0097.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000094"
+    ]
+  },
+  "hum0096.v2": {
+    "Research ID": "hum0096.v2 JGAS000090 JGAS000138",
+    "Study Title": "Comprehensive analysis of genetic alterations in hematological malignancies",
+    "Release Date": "v1:2017/05/25 v2:2019/11/18",
+    "Type of Study": "NGS (RNA-seq) Methylation array",
+    "Platform": "Illumina (HiSeq 2500, Infinium MethylationEPIC)",
+    "Participants/Materials (Ethnicity)": "123 pediatric T-ALL patients (Japanese)",
+    "Data Provider": "Junko Takita",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0096.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000090",
+      "JGAS000138"
+    ]
+  },
+  "hum0095.v1": {
+    "Research ID": "hum0095.v1 JGAS000092",
+    "Study Title": "Genetic analysis of colorectal precancerous lesion and early colorectal cancer to investigate mechanism of carcinogenesis of colorectal cancer",
+    "Release Date": "v1:2018/07/30",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "10 cases of colorectal adenomas or PCRCs (Japanese)",
+    "Data Provider": "Koshi Mimori",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0095.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000092"
+    ]
+  },
+  "hum0094.v11": {
+    "Research ID": "hum0094.v11 JGAS000095 JGAS000105 JGAS000113 JGAS000128 JGAS000215 JGAS000270 JGAS000297 JGAS000335 JGAS000360 JGAS000534",
+    "Study Title": "Genomic and epigenomic analysis of different types of cancer",
+    "Release Date": "v1:2017/09/04 v2:2018/01/22 v3:2019/02/12 v4:2020/08/14 v5:2020/10/26 v6:2021/01/29 v7:2021/07/02 v8:2021/10/22 v9:2021/10/26 v10:2022/05/23 v11:2022/11/08",
+    "Type of Study": "NGS (WGS, Exome, RNA-seq, Target Capture, Iso-seq), Methylation array, SNP-chip",
+    "Platform": "Illumina (HiSeq 2000/2500, Infinium Human MethylationEPIC BeadChip, HumanOmni2.5-8 BeadChip) 10x Genomics (Chromium Controller) PacBio (Sequel)",
+    "Participants/Materials (Ethnicity)": "68 breast cancer patients 43 + 126 lung adenocarcinoma patients 150 + 173 colorectal cancers 12 colorectal cancers with liver metastasis, 16 colorectal cancers without liver metastasis 64 desmoid tumor patients 35 pulmonary pleomorphic carcinoma patients 67 salivary duct carcinoma patients (Japanese)",
+    "Data Provider": "Hiroyuki Mano",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0094.v11",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000095",
+      "JGAS000105",
+      "JGAS000113",
+      "JGAS000128",
+      "JGAS000215",
+      "JGAS000270",
+      "JGAS000297",
+      "JGAS000335",
+      "JGAS000360",
+      "JGAS000534"
+    ]
+  },
+  "hum0091.v1": {
+    "Research ID": "hum0091.v1 JGAS000082 JGAS000165 JGAS000081",
+    "Study Title": "Study of molecular-genetics, and molecular epidemiology for developing treatment of esophageal cancer (GAC series)",
+    "Release Date": "v1:2021/03/12",
+    "Type of Study": "NGS (WGBS ChIP-seq RNA-seq)",
+    "Platform": "Illumina (HiSeq 2000/2500)",
+    "Participants/Materials (Ethnicity)": "14 Normal human foveolar epithelial cells of the stomach (Japanese)",
+    "Data Provider": "Yae Kanai (IHEC)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0091.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000082",
+      "JGAS000165",
+      "JGAS000081"
+    ]
+  },
+  "hum0090.v1": {
+    "Research ID": "hum0090.v1 JGAS000078 JGAS000079 JGAS000080",
+    "Study Title": "Study of molecular-genetics, and molecular epidemiology for developing treatment of esophageal cancer (COC series)",
+    "Release Date": "v1:2016/11/18",
+    "Type of Study": "NGS (WGBS ChIP-seq RNA-seq)",
+    "Platform": "Illumina (HiSeq 2000/2500)",
+    "Participants/Materials (Ethnicity)": "12 normal human absorptive epithelial cells (Japanese)",
+    "Data Provider": "Yae Kanai (IHEC)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0090.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000078",
+      "JGAS000079",
+      "JGAS000080"
+    ]
+  },
+  "hum0088.v2": {
+    "Research ID": "hum0088.v2 JGAS000077 JGAS000096",
+    "Study Title": "Global analysis of TGF-beta family signaling in cancer cells",
+    "Release Date": "v1:2019/02/08 v2:2019/09/10",
+    "Type of Study": "NGS (RNA-seq, WGS)",
+    "Platform": "Illumina (Genome Analyzer IIx) Thermo Fisher Scientific (Ion Proton)",
+    "Participants/Materials (Ethnicity)": "2 glioblastomas (Japanese)",
+    "Data Provider": "Kohei Miyazono",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0088.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000077",
+      "JGAS000096"
+    ]
+  },
+  "hum0086.v3": {
+    "Research ID": "hum0086.v3 JGAS000073(JGA000074) JGAS000107(JGA000117)",
+    "Study Title": "Epigenomic analysis of the human placenta and endometrium constituting the fetal-maternal interface",
+    "Release Date": "v1:2017/09/25 v2:2017/12/26 v3:2018/06/26",
+    "Type of Study": "NGS (WGBS ChIP-seq RNA-seq small RNA-seq)",
+    "Platform": "Illumina (HiSeq 1500/2500)",
+    "Participants/Materials (Ethnicity)": "placenta and uterus cells, trophoblast stem cells: total 39 samples (Japanese)",
+    "Data Provider": "Hiroyuki Sasaki (IHEC)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0086.v3",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000073(JGA000074)",
+      "JGAS000107(JGA000117)"
+    ]
+  },
+  "hum0085.v2": {
+    "Research ID": "hum0085.v2 JGAS000108",
+    "Study Title": "Molecular biological research affecting on long-term treatment to malignant tumors derived from the chest or abdomen Genomic analysis of environment-associated tumors",
+    "Release Date": "v1:2017/10/16 v1:2018/09/25",
+    "Type of Study": "Array CGH, NGS (WGS, Target Capture, Exome)",
+    "Platform": "Illumina (MiSeq, HiSeq 4000/X Ten)",
+    "Participants/Materials (Ethnicity)": "72 malignant mesotheliomas (Japanese, Americans)",
+    "Data Provider": "Masaki Ohmuraya",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0085.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000108"
+    ]
+  },
+  "hum0083.v2": {
+    "Research ID": "hum0083.v2 JGAS000070  JGAS000488",
+    "Study Title": "Genome-wide analysis for biomarker exploration (lung cancer)",
+    "Release Date": "v1:2016/10/28 v2:2022/01/24",
+    "Type of Study": "NGS (CAGE-seq)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "lung cancer: 97 + 38 cases malignant pleural mesothelioma: 10 cases (Japanese)",
+    "Data Provider": "Yoshihide Hayashizaki",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0083.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000070",
+      "JGAS000488"
+    ]
+  },
+  "hum0082.v2": {
+    "Research ID": "hum0082.v2  JGAS000120",
+    "Study Title": "Genome-wide analysis of SNPs in Healthy Japanese",
+    "Release Date": "v1:2017/09/26 v1:2017/10/03",
+    "Type of Study": "SNP-chip Control Set",
+    "Platform": "Affymetrix (SNP Array 6.0, Axiom ASI)",
+    "Participants/Materials (Ethnicity)": "419 Participants (Japanese)",
+    "Data Provider": "Katsushi Tokunaga",
+    "Type of Data": "Unrestricted-access Controlled-access (Type I)",
+    "identifier": "hum0082.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000120"
+    ]
+  },
+  "hum0079.v1": {
+    "Research ID": "hum0079.v1 JGAS000068",
+    "Study Title": "Genetic analysis in neurodegeneraive disorders",
+    "Release Date": "v1:2022/02/18",
+    "Type of Study": "NGS (RNA-seq)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "53 inclusion body myositis patients 6 polymyositis patients 9 controls (Japanese)",
+    "Data Provider": "Jun Goto (Genome Science)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0079.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000068"
+    ]
+  },
+  "hum0076.v1": {
+    "Research ID": "hum0076.v1",
+    "Study Title": "Genome-wide search for susceptibility genes to primary biliary chirrosis",
+    "Release Date": "v1:2016/10/05",
+    "Type of Study": "SNP-chip",
+    "Platform": "Affymetrix (Axiom ASI)",
+    "Participants/Materials (Ethnicity)": "487 PBCs 476 controls (Japanese)",
+    "Data Provider": "Minoru Nakamura",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0076.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+
+    ]
+  },
+  "hum0075.v3": {
+    "Research ID": "hum0075.v3",
+    "Study Title": "Search for susceptibility genes to hepatitis virus B-related diseases",
+    "Release Date": "v1:2017/09/25 v2:2019/02/19 v3:2022/05/27",
+    "Type of Study": "SNP-chip",
+    "Platform": "Affymetrix (SNP Array 6.0, Axiom ASI)",
+    "Participants/Materials (Ethnicity)": "181 HBV carriers 185 spontaneously HBV-resolved individuals 184 controls 473 HBV-positive HCC patients 516 HBV carriers (chronic hepatitis and asymptomatic carriers) (Japanese) 329 patients with chronic HBV infection 318 healthy controls (Thailander)",
+    "Data Provider": "Masashi Mizokami",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0075.v3",
+    "type": "humandbs-research",
+    "dbXrefs": [
+
+    ]
+  },
+  "hum0074.v2": {
+    "Research ID": "hum0074.v2",
+    "Study Title": "Genome-wide association studies on Hepatitis C virus-related diseases and construction of genome database",
+    "Release Date": "v1:2018/02/27 v2:2018/09/25",
+    "Type of Study": "SNP-chip",
+    "Platform": "Affymetrix (SNP Array 6.0, Axiom ASI)",
+    "Participants/Materials (Ethnicity)": "78 NVR, 64 VR, 51 SVR 107 patients with the decrease of PLT 196 patients without the decrease of PLT 94 HCV patients with an Hb reduction 209 HCV patients without Hb reduction 123 patients who developed HCC after eradication of HCV 333 patients who did not develop HCC after eradication of HCV (Japanese)",
+    "Data Provider": "Yasuhito Tanaka",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0074.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+
+    ]
+  },
+  "hum0072.v1": {
+    "Research ID": "hum0072.v1",
+    "Study Title": "Identification and functional analyses of susceptibility genes to narcolepsy and other sleep disorders",
+    "Release Date": "v1:2017/12/26",
+    "Type of Study": "SNP-chip",
+    "Platform": "Affymetrix (SNP Array 6.0)",
+    "Participants/Materials (Ethnicity)": "409 narcolepsy patients  1562 controls (Japanese) 125 essential hypersomnia patients 562 controls (Japanese)",
+    "Data Provider": "Katsushi Tokunaga",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0072.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+
+    ]
+  },
+  "hum0070.v1": {
+    "Research ID": "hum0070.v1 JGAS000115",
+    "Study Title": "Molecular analysis of Birt-Hogg-Dube syndrome: Identification of new diagnostic marker and therapeutic target",
+    "Release Date": "v1:2018/05/11",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "15 Birt-Hogg-Dube associated kidney cancer (Japanese)",
+    "Data Provider": "Masahiro Yao (P-DIRECT)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0070.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000115"
+    ]
+  },
+  "hum0069.v1": {
+    "Research ID": "hum0069.v1 JGAS000064",
+    "Study Title": "RNA expression profiling of neuromuscular diseases and viral diseases",
+    "Release Date": "v1:2016/12/09",
+    "Type of Study": "NGS (small RNA-seq)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "3 Neuromuscular disease (control group) (Japanese)",
+    "Data Provider": "Takanori Yokota",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0069.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000064"
+    ]
+  },
+  "hum0068.v7": {
+    "Research ID": "hum0068.v7 JGAS000065* JGAS000349 JGAS000570",
+    "Study Title": "Cancer genomics for elucidation of molecular mechanisms of carcinogenecis and progression in lung cancer",
+    "Release Date": "v1:2017/07/10 v2:2020/10/19 v3:2021/12/14 v4:2022/03/23 v5:2022/12/27 v6:2023/02/10 v7:2023/06/19",
+    "Type of Study": "NGS (PCR amplicon Seq, WGS, RNA-seq, scDNA-seq, Target Capture, Visium Spatial Gene Expression) Histological image Multiplex Fluorescence Immunostaining Xenium In Situ Gene Expression",
+    "Platform": "Nanopore (MinION, PromethION) Illumina (NovaSeq 6000, HiSeq 2000) Akoya Biosciences (PhenoCycler) 10x Genomics (Xenium Analyzer)",
+    "Participants/Materials (Ethnicity)": "8 + 21 + 74 lung adenocarcinoma patients (Japanese)",
+    "Data Provider": "Takashi Kono",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0068.v7",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000065*",
+      "JGAS000349",
+      "JGAS000570"
+    ]
+  },
+  "hum0067.v1": {
+    "Research ID": "hum0067.v1 JGAS000076",
+    "Study Title": "Project for Development of Innovative Research on Cancer Therapeutics; identifiying the predictive factors for response to chemoherapy in ovarian cancer",
+    "Release Date": "v1:2017/05/18",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "55 ovarian clear cell carcinoma patients (Japanese)",
+    "Data Provider": "Toru Sugiyama (P-DIRECT)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0067.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000076"
+    ]
+  },
+  "hum0066.v1": {
+    "Research ID": "hum0066.v1 JGAS000060",
+    "Study Title": "Investigating the mechanisms of tumor recurrence and metastasis by non-coding RNA",
+    "Release Date": "v1:2016/08/01",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "9 colorectal carcinomas (Japanese)",
+    "Data Provider": "Koshi Mimori",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0066.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000060"
+    ]
+  },
+  "hum0065.v1": {
+    "Research ID": "hum0065.v1 JGAS000089",
+    "Study Title": "Shuttle system between petient-derived xenograft and ex vivo culture for innovative platform of evaluating drug sensitivity",
+    "Release Date": "v1:2018/04/06",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "8 colorectal cancer 2 lung cancer 2 small cell carcinoma of uterine cervix  (Japanese)",
+    "Data Provider": "Masahiro Inoue (P-DIRECT)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0065.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000089"
+    ]
+  },
+  "hum0064.v1": {
+    "Research ID": "hum0064.v1 JGAS000061",
+    "Study Title": "Construction of Geriatric Oncology Database for establishment of the Treatment Algorithm: Clinical Data and Questionnaire Survey Results in JapaneseElderly Cancer Patients Retrospective study",
+    "Release Date": "v1:2016/08/26",
+    "Type of Study": "Direct sequencing TaqMan qRT-PCR COBRA cDNA microarray Clinical data Treatment data",
+    "Platform": "GA 3130 LightCycler 480II Whole Human Genome Microarray 4x44K",
+    "Participants/Materials (Ethnicity)": "[GENOME] 106 colorectal cancer 62 gastric cancer 173 lung cancer [Retrospective] 313 colorectal cancer 166 gastric cancer 344 lung cancer 300 diabetes and nephropathy 357 cardiovascular disorder 49 respiratory dysfunction (Japanese)",
+    "Data Provider": "Masahiko Nishiyama",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0064.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000061"
+    ]
+  },
+  "hum0061.v1": {
+    "Research ID": "hum0061.v1 JGAS000057",
+    "Study Title": "Searching causative genes of familial tumors using whole genome / exome sequencing",
+    "Release Date": "v1:2017/02/20",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "Siblings developed multiple primary lung cancers (Japanese)",
+    "Data Provider": "Kikuya Kato",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0061.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000057"
+    ]
+  },
+  "hum0060.v1": {
+    "Research ID": "hum0060.v1 JGAS000075",
+    "Study Title": "Identification of genetic mutations characteristic for recurrence and metastasis of breast cancer",
+    "Release Date": "v1:2018/04/03",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "65 recurrent / metastatic breast cancer patients (Japanese)",
+    "Data Provider": "Yoshio Miki (P-DIRECT)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0060.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000075"
+    ]
+  },
+  "hum0059.v1": {
+    "Research ID": "hum0059.v1 JGAS000104",
+    "Study Title": "Identification of genetic mutations characteristic for recurrence of serous ovarian cancer",
+    "Release Date": "v1:2018/04/06",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "65 ovarian cancer (Japanese)",
+    "Data Provider": "Kazuyoshi Kato (P-DIRECT)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0059.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000104"
+    ]
+  },
+  "hum0058.v1": {
+    "Research ID": "hum0058.v1 JGAS000091",
+    "Study Title": "Identification of genetic mutations characteristic for recurrence and metastasis of colorectal cancer.",
+    "Release Date": "v1:2018/04/06",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "89 colorectal cancers (Japanese)",
+    "Data Provider": "Toshiharu Yamaguchi (P-DIRECT)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0058.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000091"
+    ]
+  },
+  "hum0056.v1": {
+    "Research ID": "hum0056.v1",
+    "Study Title": "Genome and Multi-layer omics reference panels using blood samples from a population-based cohort study",
+    "Release Date": "v1:2018/03/30",
+    "Type of Study": "NGS (WGS, WGBS, RNA-seq)",
+    "Platform": "Illumina (HiSeq 2500/X)",
+    "Participants/Materials (Ethnicity)": "197 participants (Japanese)",
+    "Data Provider": "Atsushi Shimizu",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0056.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+
+    ]
+  },
+  "hum0055.v1": {
+    "Research ID": "hum0055.v1 JGAS000059",
+    "Study Title": "Genetic and epigentic analysis of non-alcoholic fatty liver disease",
+    "Release Date": "v1:2017/02/20",
+    "Type of Study": "NGS (RNA-seq) Methylation array",
+    "Platform": "Illumina (HiSeq 2500, Human Methylation 450K BeadChip)",
+    "Participants/Materials (Ethnicity)": "64 NAFLD patients (Japanese)",
+    "Data Provider": "Kikuko Hotta (Genome Science)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0055.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000059"
+    ]
+  },
+  "hum0053.v2": {
+    "Research ID": "hum0053.v2 JGAS000062 JGAS000176",
+    "Study Title": "Identification of new molecular targets with profiling of malignant mesothelioma",
+    "Release Date": "v1:2016/07/20 v2:2020/04/14",
+    "Type of Study": "NGS (Exome, WGS)",
+    "Platform": "Illumina (HiSeq 2000/2500) 10x Genomics (Chromium Controller)",
+    "Participants/Materials (Ethnicity)": "38 Malignant pleural mesothelioma (Japanese)",
+    "Data Provider": "Takashi Nakano (P-DIRECT)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0053.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000062",
+      "JGAS000176"
+    ]
+  },
+  "hum0050.v1": {
+    "Research ID": "hum0050.v1 JGAS000053",
+    "Study Title": "Transcriptome analysis of Hepatitis B for drug discovery and clinical applications",
+    "Release Date": "v1:2016/09/30",
+    "Type of Study": "NGS (CAGE-seq)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "8 HBV (Genotype C) positive patients (Japanese)",
+    "Data Provider": "Tomokazu Matsuura",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0050.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000053"
+    ]
+  },
+  "hum0048.v1": {
+    "Research ID": "hum0048.v1 DRA004251",
+    "Study Title": "Whole exome sequencing on ampullary carcinomas",
+    "Release Date": "v1:2016/02/05",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000/2500)",
+    "Participants/Materials (Ethnicity)": "60 Patients with ampullary cancer   (28 Japanese patients and 32 American patients)",
+    "Data Provider": "Shinich Yachida",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0048.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "DRA004251"
+    ]
+  },
+  "hum0045.v1": {
+    "Research ID": "hum0045.v1 JGAS000047",
+    "Study Title": "Transcriptome analysis of acute lymphoblastic leukemia in adolescents and young adults",
+    "Release Date": "v1:2016/03/29",
+    "Type of Study": "NGS (RNA-seq)",
+    "Platform": "Illumina (HiSeq 2000/2500)",
+    "Participants/Materials (Ethnicity)": "99 Ph(-) ALL 3 Ph(+) ALL  5 cell lines  8 normal hematopoietic cells (Japanese)",
+    "Data Provider": "Hiroyuki Mano (P-DIRECT)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0045.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000047"
+    ]
+  },
+  "hum0044.v1": {
+    "Research ID": "hum0044.v1 DRA004162",
+    "Study Title": "Research about retrovirus infection",
+    "Release Date": "v1:2016/10/31",
+    "Type of Study": "NGS (ChIP-seq)",
+    "Platform": "Illumina (NextSeq 500)",
+    "Participants/Materials (Ethnicity)": "1 ED (ATL cell line) (Cell-line)",
+    "Data Provider": "Yorifumi Satou",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0044.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "DRA004162"
+    ]
+  },
+  "hum0043.v1": {
+    "Research ID": "hum0043.v1 JGAS000051",
+    "Study Title": "Japanese Alzheimer's disease neuroimaging initiative (J-ADNI)",
+    "Release Date": "v1:2016/01/29",
+    "Type of Study": "Neuroimage Clinical Info",
+    "Platform": "MRI Scanners (15 Models) PET Scanners (16 Models)",
+    "Participants/Materials (Ethnicity)": "234 MCI  154 AD  149 healthly controls  (Japanese)",
+    "Data Provider": "Takeshi Iwatsubo",
+    "Type of Data": "Unrestricted-access Controlled-access (Type I)",
+    "identifier": "hum0043.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000051"
+    ]
+  },
+  "hum0042.v1": {
+    "Research ID": "hum0042.v1",
+    "Study Title": "Genome analysis for elucidation of genetic factors in orofacial traits and diseases",
+    "Release Date": "v1:2016/03/02",
+    "Type of Study": "NGS (WGS)",
+    "Platform": "Illumina (HumanOmniExpress BeadChip)",
+    "Participants/Materials (Ethnicity)": "146 TMJ and 374 controls  149 third molar agenesis and 338 controls  (Japanese, Korean)",
+    "Data Provider": "Tetsutarou Yamaguchi (Genome Science)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0042.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+
+    ]
+  },
+  "hum0041.v1": {
+    "Research ID": "hum0041.v1 JGAS000052",
+    "Study Title": "Research of factors related to diagnosis, progression, prognosis and treatment of hepato-biliary-pancreatic malignancies",
+    "Release Date": "v1:2017/01/12",
+    "Type of Study": "NGS (Exome, Target Capture)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "33 primary HCC (Japanese)",
+    "Data Provider": "Shinji Tanaka (P-DIRECT)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0041.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000052"
+    ]
+  },
+  "hum0040.v1": {
+    "Research ID": "hum0040.v1 JGAS000038",
+    "Study Title": "Epigenomic analysis of the human placenta",
+    "Release Date": "v1:2016/09/16",
+    "Type of Study": "NGS (WGS, Exome, RNA-seq, BS-seq)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "28 human placenta 26 maternal blood samples (Japanese)",
+    "Data Provider": "Takahiro Arima (IHEC)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0040.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000038"
+    ]
+  },
+  "hum0039.v1": {
+    "Research ID": "hum0039.v1 JGAS000039",
+    "Study Title": "Analysis of TKI resistant mechanism for gastrointstinal stromal tumor (GIST)",
+    "Release Date": "v1:2016/12/27",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina  (HiSeq 1500) ",
+    "Participants/Materials (Ethnicity)": "4 Imatinib resistant GIST (Japanese)",
+    "Data Provider": "Tsuyoshi Takahashi",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0039.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000039"
+    ]
+  },
+  "hum0038.v1": {
+    "Research ID": "hum0038.v1  JGAS000041",
+    "Study Title": "Genetic analysis in an inherited cardiac arrhythmia",
+    "Release Date": "v1:2015/11/18",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "11 Patients with an inherited cardiac arrhythmia  (Japanese)",
+    "Data Provider": "Naomasa Makita (Genome Science)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0038.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000041"
+    ]
+  },
+  "hum0037.v1": {
+    "Research ID": "hum0037.v1 JGAS000035",
+    "Study Title": "Diagnostic feasibility study for pathological prediction with rheumatoid arthritis-susceptible genes and genomic regions identified by the association analysis using microsatelite markers",
+    "Release Date": "v1:2015/09/24",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "39 RAs  10 Controls (pooled) (Japanese)",
+    "Data Provider": "Shigeki Mitsunagai (Genome Science)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0037.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000035"
+    ]
+  },
+  "hum0036.v1": {
+    "Research ID": "hum0036.v1 DRA003736",
+    "Study Title": "Performance Comparison of Four Commercial Human Whole-Exome Capture Platforms",
+    "Release Date": "v1:2015/08/01",
+    "Type of Study": "NGS (Exome) Platform comparison",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "2 HapMap-JPT samples (Japanese)",
+    "Data Provider": "Michiaki Kubo",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0036.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "DRA003736"
+    ]
+  },
+  "hum0035.v5": {
+    "Research ID": "hum0035.v5 JGAS000036 JGAS000046 JGAS000088 JGAS000188 JGAS000204 JGAS000246",
+    "Study Title": "Genome wide analysis of gene mutations in solid tumors",
+    "Release Date": "v1:2015/09/16 v2:2017/12/26 v3:2020/05/29 v4:2020/12/14 v5:2020/12/18",
+    "Type of Study": "NGS (Exome, Target Capture, RNA-seq) SNP-chip Methylation array",
+    "Platform": "Illumina (HiSeq 2000/2500, MiSeq, Infinium MethylationEPIC) Affymetrix (GeneChip Human Mapping 250k Nspl, CytoScan HD arrays)",
+    "Participants/Materials (Ethnicity)": "16 RMSs  7 PPBs 522 NBs 39 neuroblastoma cell lines 10 PBLs 59 HBLs 2 HBL cell lines 51 patients with pediatric germ cell tumors 30 patients with high-risk neuroblastoma (Japanese)",
+    "Data Provider": "Junko Takita (P-DIRECT)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0035.v5",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000036",
+      "JGAS000046",
+      "JGAS000088",
+      "JGAS000188",
+      "JGAS000204",
+      "JGAS000246"
+    ]
+  },
+  "hum0034.v1": {
+    "Research ID": "hum0034.v1 JGAS000037",
+    "Study Title": "Identification of novel therapeutic targets of small cell lung cancer by comprehensive genomic analyses",
+    "Release Date": "v1:2015/10/01",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "51 SCLCs (Japanese)",
+    "Data Provider": "Koichi Goto (P-DIRECT)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0034.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000037"
+    ]
+  },
+  "hum0033.v1": {
+    "Research ID": "hum0033.v1 DRA003516",
+    "Study Title": "Functional analysis of two types of exosome  in human whole saliva",
+    "Release Date": "v1:2015/05/01",
+    "Type of Study": "NGS (RNA-seq)",
+    "Platform": "Illumina (Genome Analyzer IIx)",
+    "Participants/Materials (Ethnicity)": "1 Participant (3 Samples) (Japanese)",
+    "Data Provider": "Ryohei Yanoshita",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0033.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "DRA003516"
+    ]
+  },
+  "hum0032.v1": {
+    "Research ID": "hum0032.v1 JGAS000026 JGAS000027 JGAS000028",
+    "Study Title": "Standard epigenome mapping in human epithelial cells of the digestive and urogenital organs  (HPC series)",
+    "Release Date": "v1:2016/07/22",
+    "Type of Study": "NGS (WGBS ChIP-seq RNA-seq)",
+    "Platform": "Illumina (HiSeq 2000/2500)",
+    "Participants/Materials (Ethnicity)": "8 partial hepatectomy specimens  (Japanese)",
+    "Data Provider": "Yae Kanai (IHEC)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0032.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000026",
+      "JGAS000027",
+      "JGAS000028"
+    ]
+  },
+  "hum0031.v1": {
+    "Research ID": "hum0031.v1 JGAS000042JGAS000043JGAS000044JGAS000045",
+    "Study Title": "Constructing database of magnetic resonance imaging of the brain and the ancillary clinical information for multisite collaboration studies",
+    "Release Date": "v1:2015/11/20",
+    "Type of Study": "Neuroimage Clinical Info",
+    "Platform": "Philips (Achieva)",
+    "Participants/Materials (Ethnicity)": "129 normal controls, 37 schizophrenia, 8 unipolar and 2 bipolar disorders (Japanese)",
+    "Data Provider": "Kiyoto Kasai",
+    "Type of Data": "Unrestricted-access Controlled-access (Type I)",
+    "identifier": "hum0031.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000042JGAS000043JGAS000044JGAS000045"
+    ]
+  },
+  "hum0030.v1": {
+    "Research ID": "hum0030.v1 JGAS000022",
+    "Study Title": "The Molecular Biological Analysis  about Occurrence and Malignant Transformation  in gynecological carcinogenesis",
+    "Release Date": "v1:2015/04/21",
+    "Type of Study": "SNP-chip CNV Analysis",
+    "Platform": "Affymetrix (Human Mapping 250K Nsp Array)",
+    "Participants/Materials (Ethnicity)": "57 OvarianCarcinomas  (Japanese)",
+    "Data Provider": "Katsutoshi Oda (P-DIRECT)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0030.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000022"
+    ]
+  },
+  "hum0029.v2": {
+    "Research ID": "hum0029.v2",
+    "Study Title": "Study of Genome Polymorphism/Variation on Stevens-Johnson Syndrome",
+    "Release Date": "v1:2016/03/09 v1:2020/12/21",
+    "Type of Study": "SNP-chip Case-Control",
+    "Platform": "Affymetrix (Axiom ASI) Illumina (HiSeq X Ten)",
+    "Participants/Materials (Ethnicity)": "117 SJSs and 691 controls 133 SJS/TENs and 418 controls (Japanese)",
+    "Data Provider": "Mayumi Ueta (Genome Science)",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0029.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+
+    ]
+  },
+  "hum0028.v2": {
+    "Research ID": "hum0028.v2 JGAS000018",
+    "Study Title": "Biobank Japan Project",
+    "Release Date": "v1:2015/06/02 v2:2018/06/05",
+    "Type of Study": "SNP-chip",
+    "Platform": "Illumina (HumanOmniExpress BeadChip, HumanExome BeadChip, ImmunoChip, HumanHap550v3 Genotyping BeadChip)",
+    "Participants/Materials (Ethnicity)": "908 Participants (Japanese)",
+    "Data Provider": "Michiaki Kubo (BBJ)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0028.v2",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000018"
+    ]
+  },
+  "hum0027.v1": {
+    "Research ID": "hum0027.v1  JGAS000024  JGAS000040",
+    "Study Title": "Identification of genetic polymorphism on aggressive periodontitis",
+    "Release Date": "v1:2016/07/28",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "Periodontitis patients (Japanese)",
+    "Data Provider": "Shinya Murakami",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0027.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000024",
+      "JGAS000040"
+    ]
+  },
+  "hum0024.v1": {
+    "Research ID": "hum0024.v1  JGAS000023",
+    "Study Title": "Comprehensive Analysis of Genetic Alterations in Hematological Malignancies",
+    "Release Date": "v1:2015/04/16",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (Genome Analyzer IIx, HiSeq 2000/2500)",
+    "Participants/Materials (Ethnicity)": "13 MDSs and 1 CMML (Japanese)",
+    "Data Provider": "Seishi Ogawa (P-DIRECT)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0024.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000023"
+    ]
+  },
+  "hum0023.v1": {
+    "Research ID": "hum0023.v1 JGAS000016",
+    "Study Title": "Genetic Analysis in Lifestyle-Related Disease, Arteriosclerotic Disease, and  Aging-Related Diseases",
+    "Release Date": "v1:2015/01/28",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "30 Hypertensions (Japanese)",
+    "Data Provider": "Tetsurou Miki (Genome Science)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0023.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000016"
+    ]
+  },
+  "hum0022.v1": {
+    "Research ID": "hum0022.v1 JGAS000017",
+    "Study Title": "Analysis of the Molecular Mechanism for Developing Donor-Origin Leukemia after Allogeneic Stem Cell Transplantation.",
+    "Release Date": "v1:2015/02/02",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "1 DCL (5 Samples from Each Stage) 1 Donor (Japanese)",
+    "Data Provider": "Hitoshi Kiyoi (P-DIRECT)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0022.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000017"
+    ]
+  },
+  "hum0021.v3": {
+    "Research ID": "hum0021.v3 JGAS000014 JGAS000273",
+    "Study Title": "Genetic Analysis in Psychiatric Disorders",
+    "Release Date": "v1:2015/01/08 v2:2021/03/05 v3:2021/04/20",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000/2500)",
+    "Participants/Materials (Ethnicity)": "Healthy Monozygotic Twins: 3 Pairs (6 Participants) 66 + 78 trios with bipolar disorder proband and unaffected parents (Japanese)",
+    "Data Provider": "Tadafumi Kato (Genome Science)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0021.v3",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000014",
+      "JGAS000273"
+    ]
+  },
+  "hum0020.v1": {
+    "Research ID": "hum0020.v1  JGAS000013",
+    "Study Title": "Genetic Analysis in Amyotrophic Lateral Sclerosis",
+    "Release Date": "v1:2015/01/08",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "11 ALSs (Japanese)",
+    "Data Provider": "Fumiaki Tanaka (Genome Science)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0020.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000013"
+    ]
+  },
+  "hum0019.v1": {
+    "Research ID": "hum0019.v1 JGAS000011",
+    "Study Title": "Systematic identification of long non-coding RNAs potentially involved in gastrointestinal cancer",
+    "Release Date": "v1:2015/04/01",
+    "Type of Study": "NGS (RNA-seq) Tumor vs. Matched-Normal",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "17 GICs  (32 Samples) (Japanese)",
+    "Data Provider": "Yasuhisa Shinomura (Genome Science)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0019.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000011"
+    ]
+  },
+  "hum0018.v1": {
+    "Research ID": "hum0018.v1 JGAS000009",
+    "Study Title": "Genetic analysis in neurodegenerative disorders",
+    "Release Date": "v1:2015/02/03",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "14 MSAs and 7 Controls (Japanese)",
+    "Data Provider": "Shoji Tsuji",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0018.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000009"
+    ]
+  },
+  "hum0017.v1": {
+    "Research ID": "hum0017.v1 JGAS000021",
+    "Study Title": "Exome sequencing of primary central nervous system lymphoma",
+    "Release Date": "v1:2016/02/22",
+    "Type of Study": "NGS (Exome, RNA-seq)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "41 PCNSLs (Japanese)",
+    "Data Provider": "Hiroyuki Mano",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0017.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000021"
+    ]
+  },
+  "hum0016.v1": {
+    "Research ID": "hum0016.v1 DRA002604",
+    "Study Title": "Epigenome analysis of proteins expressed in human testis",
+    "Release Date": "v1:2016/09/30",
+    "Type of Study": "NGS (ChIP-seq, RNA-seq)",
+    "Platform": "Illumina (HiSeq 1500)",
+    "Participants/Materials (Ethnicity)": "1 Participant  (4 Samples) (Japanese)",
+    "Data Provider": "Yasuyuki Ohkawa",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0016.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "DRA002604"
+    ]
+  },
+  "hum0015.v3": {
+    "Research ID": "hum0015.v3 JGAS000159",
+    "Study Title": "Construction of the Whole-genome Reference Panel of 3552 Japanese Individuals",
+    "Release Date": "v1:2014/10/14 v2:2018/12/27 v3:2019/01/11",
+    "Type of Study": "NGS (WGS)",
+    "Platform": "Illumina (HiSeq 2500)",
+    "Participants/Materials (Ethnicity)": "3552 Participants (Japanese)",
+    "Data Provider": "Masayuki Yamamoto (ToMMo)",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0015.v3",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000159"
+    ]
+  },
+  "hum0014.v30": {
+    "Research ID": "hum0014.v30 JGAS000101 JGAS000114 JGAS000140 JGAS000203 JGAS000293 JGAS000327 JGAS000346 JGAS000381 JGAS000414 JGAS000347 JGAS000592",
+    "Study Title": "Bio Bank Japan project",
+    "Release Date": "v1:2014/09/30 v2:2015/12/28 v3:2016/01/28 v4:2016/02/02 v5:2017/05/18 v6:2017/09/08 v7:2018/04/04 v8:2018/05/01 v9:2018/08/07 v10:2018/08/13 v11:2018/10/16 v12:2018/12/10 v13:2019/01/25 v14:2019/03/26 v15:2019/09/27 v16:2019/10/07 v17:2019/10/08 v18:2019/11/26 v19:2020/04/20 v20:2020/08/17 v21:2020/08/25 v22:2021/05/21 v23:2021/07/13 v24:2021/11/26 v25:2022/01/25 v26:2022/04/01 v27:2023/01/18 v28:2023/04/05 v29:2023/04/05 v30:2023/04/20",
+    "Type of Study": "SNP-chip Case-Control NGS (WGS, Target Capture)",
+    "Platform": "Illumina (Human610-Quad, HumanHap550v3, HumanOmniExpress-12, HumanExome, OmniExpressExome, HiSeq 2500/X Five) Perlegen Sciences (high-density oligonucleotide arrays) Hologic Japan (Invader)",
+    "Participants/Materials (Ethnicity)": "v1:1666 MIs and 3198 ctrls v2:934 ctrls (JSNP) v2:35 diseases (JSNP) v2:182 esophageal cancers (JSNP) v2:92 ALSs (JSNP) v3:9817 T2DMs and 6763 ctrls v3:5646 T2DMs and 19,420 ctrls v4:1472 ADs and 7966 ctrls v5:8180 AFs and 28,612 ctrls v6:158,284 individuals for BMI study v6:182,505 individuals' genotype data v7:3980 POAGs and 18,815 ctrls v8:162,255 individuals for 58 quantitative traits study v9:67,029 females with information on age at menarche v9:43,861 females with information on age at menopause v10:1,026 individuals for WGS v11:7,104 breast cancer patients and 23,731 controls v12:2,809 T2DM with diabetic nephropathy patients and 5,592 T2DM ctrls v13:36,614 T2DMs and 155,150 ctrls v14:165,436 individuals with information on smoking behaviour v15:1,026 individuals from biobank Japan and 2,504 individuals from 1KGP p3v5 ALL v15:159,095 individuals for height study v16:7,636 prostate cancer patients and 12,366 ctrls v17,18,21:212,453 individuals for 42 diseases v19:165,084 individuals with information on dietary habits v2025,892 CADs and 142,336 ctrls v22:11,234 individuals from biobank Japan v23:768 individuals from biobank Japan v24:1,005 pancreatic cancer patients, 12,503 colorectal cancer patients and 23,705 ctrls v25:1,765 myocardial infarction patients and 199 dementia patients v26:740 renal cell cancer patients and 5,996 controls v27:137,693 individuals from biobank Japan v28:4,880 individuals from biobank Japan v29:9,826 AFs and 140,446 ctrls (BBJ cohot)        60,620 AFs and 970,216 ctrls (European)        7,244 AFs and 56,378 ctrls (FinnGenn) v30: 1,982 lymphoma patients, 10,366 gastric cancer patients and 37,592 controls (BBJ cohot) (Japanese, European, Finnish)",
+    "Data Provider": "Michiaki Kubo",
+    "Type of Data": "Unrestricted-access Controlled-access (Type I)",
+    "identifier": "hum0014.v30",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000101",
+      "JGAS000114",
+      "JGAS000140",
+      "JGAS000203",
+      "JGAS000293",
+      "JGAS000327",
+      "JGAS000346",
+      "JGAS000381",
+      "JGAS000414",
+      "JGAS000347",
+      "JGAS000592"
+    ]
+  },
+  "hum0013.v1": {
+    "Research ID": "hum0013.v1",
+    "Study Title": "Japan PGx Data Science Consortium Database",
+    "Release Date": "v1:2014/10/16",
+    "Type of Study": "SNP-chip Control Set",
+    "Platform": "Illumina (HumanOmni2.5-8)",
+    "Participants/Materials (Ethnicity)": "2994 Participants (Japanese)",
+    "Data Provider": "Koji Suematsu",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0013.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+
+    ]
+  },
+  "hum0012.v1": {
+    "Research ID": "hum0012.v1 JGAS000012",
+    "Study Title": "Nagahama Zero-ji Preventive Cohort Project",
+    "Release Date": "v1:2015/08/19",
+    "Type of Study": "SNP-chip Control Set Cohort",
+    "Platform": "Illumina (Human610-Quad,  HumanOmni2.5-4/2.5-8/2.5S-8,  HumanExome-12,  HumanCoreExome-12)",
+    "Participants/Materials (Ethnicity)": "3712 Participants (Japanese)",
+    "Data Provider": "Fumihiko Matsuda",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0012.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000012"
+    ]
+  },
+  "hum0011.v1": {
+    "Research ID": "hum0011.v1 JGAS000015",
+    "Study Title": "Integrated hepatitis B virus is epigenomically regulated by the methylation status of the human genome",
+    "Release Date": "v1:2015/10/07",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Roche GS FLX Titanium",
+    "Participants/Materials (Ethnicity)": "2 Cell lines 8 HB-HCC primary tissues (Japanese)",
+    "Data Provider": "Hiroyuki Yamamoto",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0011.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000015"
+    ]
+  },
+  "hum0010.v1": {
+    "Research ID": "hum0010.v1 JGAS000008",
+    "Study Title": "Research for candidate genes of splenic epidermoid cyst.",
+    "Release Date": "v1:2015/06/23",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "8 Splenic epidermoid cysts  (Japanese)",
+    "Data Provider": "Hiroshi Matsufuji",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0010.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000008"
+    ]
+  },
+  "hum0009.v3": {
+    "Research ID": "hum0009.v3 DRA003802",
+    "Study Title": "DNA Methylation Analysis of Early Human Embryos",
+    "Release Date": "v1:2014/12/24 v2:2015/01/07 v3:2015/08/03",
+    "Type of Study": "NGS (PBAT)",
+    "Platform": "Illumina (HiSeq 2000/2500)",
+    "Participants/Materials (Ethnicity)": "11 Libraries (Japanese)",
+    "Data Provider": "Takahiro Arima",
+    "Type of Data": "Unrestricted-access",
+    "identifier": "hum0009.v3",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "DRA003802"
+    ]
+  },
+  "hum0008.v1": {
+    "Research ID": "hum0008.v1 JGAS000007",
+    "Study Title": "Research for genetic causes and mechanisms of Hirschsprung's  ",
+    "Release Date": "v1:2018/01/29",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "5 Patients with Hirschsprung's diseases and 6 their families (Japanese)",
+    "Data Provider": "Hiroshi Matsufuji",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0008.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000007"
+    ]
+  },
+  "hum0007.v1": {
+    "Research ID": "hum0007.v1 JGAS000005",
+    "Study Title": "Gene Expression of Human Th17 Cells  Before and After Activation",
+    "Release Date": "v1:2015/02/12",
+    "Type of Study": "NGS (RNA-seq)",
+    "Platform": "Applied BioSystems (AB5500 GA)",
+    "Participants/Materials (Ethnicity)": "1 Participant  (4 Samples) (Japanese)",
+    "Data Provider": "Sanju Iwamoto",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0007.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000005"
+    ]
+  },
+  "hum0006.v5": {
+    "Research ID": "hum0006.v5 JGAS000004 JGAS000106 JGAS000146 JGAS000325",
+    "Study Title": "Genomic and Genetic Analysis of Brain Tumors and Analysis of Their Clinicopathological Significance",
+    "Release Date": "v1:2014/01/31 v2:2017/06/05 v3:2017/09/01 v4:2019/02/13 v5:2022/08/08",
+    "Type of Study": "NGS (Exome, RNA-seq, Target Capture) Methylation array",
+    "Platform": "Illumina (HiSeq 2000/2500,  HumanMethylation450 BeadChip)",
+    "Participants/Materials (Ethnicity)": "6 astrocytomas 16 oligodendrogliomas gliomas (17 cerebellar gliomas, 8 cerebral glioblastomas and 14 thalamic gliomas) 94 gliomas 12 cerebral cavernous malformations 1 vertebral hemangioma 3 orbital cavernous malformations (Japanese)",
+    "Data Provider": "Nobuhito Saito (P-DIRECT)",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0006.v5",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000004",
+      "JGAS000106",
+      "JGAS000146",
+      "JGAS000325"
+    ]
+  },
+  "hum0005.v7": {
+    "Research ID": "hum0005.v7 DRA001273 JGAS000032 DRA003791 JGAS000093 JGAS000123 JGAS000166 JGAS000191 JGAS000192 JGAS000200 JGAS000201 JGAS000323",
+    "Study Title": "Genetic Analysis of Hearing Loss and Its Clinical Application",
+    "Release Date": "v1:2014/01/27 v2:2017/02/24 v3:2017/06/19 v4:2018/02/13 v5:2019/04/18 v6:2021/07/30 v7:2021/11/19",
+    "Type of Study": "NGS (Target Capture)",
+    "Platform": "Thermo Fisher Scientific (Ion PGM, IonProton, Ion S5) Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "17 UsherSyndrome patients 187 Non-syndromic hearing loss patients (Japanese)",
+    "Data Provider": "Shin-ichi Usami",
+    "Type of Data": "Unrestricted-access Controlled-access (Type I)",
+    "identifier": "hum0005.v7",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "DRA001273",
+      "JGAS000032",
+      "DRA003791",
+      "JGAS000093",
+      "JGAS000123",
+      "JGAS000166",
+      "JGAS000191",
+      "JGAS000192",
+      "JGAS000200",
+      "JGAS000201",
+      "JGAS000323"
+    ]
+  },
+  "hum0004.v1": {
+    "Research ID": "hum0004.v1 JGAS000001",
+    "Study Title": "Molecular Epidemiological Study of Somatic Mutation Profiles of EGFR Mutation Positive Lung Adenocarcinoma",
+    "Release Date": "v1:2014/07/11",
+    "Type of Study": "NGS (Exome)",
+    "Platform": "Illumina (Genome Analyzer IIx)",
+    "Participants/Materials (Ethnicity)": "97 Patients (Japanese)",
+    "Data Provider": "Koichi Goto",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0004.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000001"
+    ]
+  },
+  "hum0001.v1": {
+    "Research ID": "hum0001.v1 JGAS000002",
+    "Study Title": "Sequence Data of a SCA31 Patient",
+    "Release Date": "v1:2013/12/01",
+    "Type of Study": "Single Patient NGS (WGS)",
+    "Platform": "Illumina (HiSeq 2000)",
+    "Participants/Materials (Ethnicity)": "1 Patient (Japanese)",
+    "Data Provider": "Shinichi Morishita",
+    "Type of Data": "Controlled-access (Type I)",
+    "identifier": "hum0001.v1",
+    "type": "humandbs-research",
+    "dbXrefs": [
+      "JGAS000002"
+    ]
+  }
+}
